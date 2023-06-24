@@ -1,0 +1,1106 @@
+taxonID	scientificName	taxonomicStatus	acceptedNameUsage
+https://id.biodiversity.org.au/instance/algae/20215643	Achnanthes brevipes C.Agardh	nomenclatural synonym	Achnanthes adnata Bory
+https://id.biodiversity.org.au/instance/algae/20180340	Achnanthes angustata Grev.	nomenclatural synonym	Achnanthes brevipes var. angustata (Grev.) Cleve
+https://id.biodiversity.org.au/instance/algae/20215708	Achnanthes longipes C.Agardh	taxonomic synonym	Achnanthes armillaris (O.F.Müll.) Guiry
+https://id.biodiversity.org.au/instance/algae/20215648	Achnanthidium coarctatum Bréb. ex W.Sm.	nomenclatural synonym	Achnanthes coarctata (Bréb. ex W.Sm.) Grunow
+https://id.biodiversity.org.au/instance/algae/20215497	Stauroneis inflata Kütz.	nomenclatural synonym	Achnanthes inflata (Kütz.) Grunow
+https://id.biodiversity.org.au/instance/algae/20215503	Achnanthes intermedia Kütz.	nomenclatural synonym	Achnanthes brevipes var. intermedia (Kütz.) Cleve
+https://id.biodiversity.org.au/instance/algae/20215504	Achnanthes subsessilis Kütz.	taxonomic synonym	Achnanthes brevipes var. intermedia (Kütz.) Cleve
+https://id.biodiversity.org.au/instance/algae/20215532	Achnanthes oblongella Østrup	nomenclatural synonym	Platessa oblongella (Østrup) C.E.Wetzel, Lange-Bert. & Ector
+https://id.biodiversity.org.au/instance/algae/20215531	Achnanthes minutissima var. affinis (Grunow) Lange-Bert.	nomenclatural synonym	Achnanthidium affine (Grunow) Czarn.
+https://id.biodiversity.org.au/instance/algae/20215457	Achnanthes affinis Grunow	nomenclatural synonym	Achnanthidium affine (Grunow) Czarn.
+https://id.biodiversity.org.au/instance/algae/20215484	Achnanthes exilis Kütz.	nomenclatural synonym	Achnanthidium exile (Kütz.) Heib.
+https://id.biodiversity.org.au/instance/algae/20215512	Achnanthes linearis (W.Sm.) Grunow	nomenclatural synonym	Achnanthidium lineare W.Sm.
+https://id.biodiversity.org.au/instance/algae/20215513	Rossithidium lineare (W.Sm.) Round & Bukht.	nomenclatural synonym	Achnanthidium lineare W.Sm.
+https://id.biodiversity.org.au/instance/algae/20237952	Microneis minutissima (Kütz.) F.Meister	nomenclatural synonym	Achnanthidium minutissima (Kütz.) Czarn.
+https://id.biodiversity.org.au/instance/algae/20237953	Achnanthes minutissima Kütz.	nomenclatural synonym	Achnanthidium minutissima (Kütz.) Czarn.
+https://id.biodiversity.org.au/instance/algae/20237954	Achnanthes microcephala (Kütz.) Grunow	taxonomic synonym	Achnanthidium minutissima (Kütz.) Czarn.
+https://id.biodiversity.org.au/instance/algae/20237955	Achnanthes minutissima var. cryptocephala Grunow	taxonomic synonym	Achnanthidium minutissima (Kütz.) Czarn.
+https://id.biodiversity.org.au/instance/algae/20237956	Achnanthidium microcephalum Kütz.	taxonomic synonym	Achnanthidium minutissima (Kütz.) Czarn.
+https://id.biodiversity.org.au/instance/algae/20216211	Achnanthidium biasolettianum (Grunow) Bukht.	taxonomic synonym	Achnanthidium pyrenaicum (Hust.) H.Kobayasi
+https://id.biodiversity.org.au/instance/algae/20215471	Achnanthidium exiguum (Grunow) Czarnecki	nomenclatural synonym	Gogorevia exilis (Kütz.) Kulikovskiy & J.P.Kociolek
+https://id.biodiversity.org.au/instance/algae/20215472	Achnanthes exigua Grunow	nomenclatural synonym	Gogorevia exilis (Kütz.) Kulikovskiy & J.P.Kociolek
+https://id.biodiversity.org.au/instance/algae/20178232	Achnanthes hungarica (Grunow) Grunow	nomenclatural synonym	Lemnicola hungarica (Grunow) Round & Basson
+https://id.biodiversity.org.au/instance/algae/20180347	Achnanthidium hungaricum Grunow	nomenclatural synonym	Lemnicola hungarica (Grunow) Round & Basson
+https://id.biodiversity.org.au/instance/algae/20178235	Achnanthes delicatula (Kütz.) Grunow	nomenclatural synonym	Planothidium delicatulum (Kütz.) Round & Bukht.
+https://id.biodiversity.org.au/instance/algae/20180349	Achnanthidium delicatulum Kütz.	nomenclatural synonym	Planothidium delicatulum (Kütz.) Round & Bukht.
+https://id.biodiversity.org.au/instance/algae/20215489	Achnanthes delicatula subsp. hauckiana (Grunow) Lange-Bert.	nomenclatural synonym	Planothidium hauckianum (Grunow) Bukht.
+https://id.biodiversity.org.au/instance/algae/20215490	Achnanthes hauckiana Grunow	nomenclatural synonym	Planothidium hauckianum (Grunow) Bukht.
+https://id.biodiversity.org.au/instance/algae/20181247	Achnanthes lanceolata (Bréb. ex Kütz.) Grunow	nomenclatural synonym	Planothidium lanceolatum (Bréb. ex Kütz.) Lange-Bert.
+https://id.biodiversity.org.au/instance/algae/20181246	Achnanthidium lanceolatum Bréb. ex Kütz.	nomenclatural synonym	Planothidium lanceolatum (Bréb. ex Kütz.) Lange-Bert.
+https://id.biodiversity.org.au/instance/algae/20178253	Bacillaria paradoxa J.F.Gmel.	taxonomic synonym	Bacillaria paxillifera (O.F.Müll.) M.Marsson
+https://id.biodiversity.org.au/instance/algae/20180362	Vibrio paxillifera O.F.Müll.	nomenclatural synonym	Bacillaria paxillifera (O.F.Müll.) M.Marsson
+https://id.biodiversity.org.au/instance/algae/20216110	Ceratoneis closterium Ehrenb.	nomenclatural synonym	Cylindrotheca closterium (Ehrenb.) Reimann & J.C.Lewin
+https://id.biodiversity.org.au/instance/algae/20216112	Nitzschia longissima var. closterium (Ehrenb.) Van Heurck	nomenclatural synonym	Cylindrotheca closterium (Ehrenb.) Reimann & J.C.Lewin
+https://id.biodiversity.org.au/instance/algae/20216111	Nitzschia closterium (Ehrenb.) W.Sm.	nomenclatural synonym	Cylindrotheca closterium (Ehrenb.) Reimann & J.C.Lewin
+https://id.biodiversity.org.au/instance/algae/20180363	Eunotia amphioxys Ehrenb.	nomenclatural synonym	Hantzschia amphioxys (Ehrenb.) Grunow
+https://id.biodiversity.org.au/instance/algae/20180366	Nitzschia virgata Roper	nomenclatural synonym	Hantzschia virgata (Roper) Grunow
+https://id.biodiversity.org.au/instance/algae/20233269	Synedra dissipata Kütz.	nomenclatural synonym	Nitzschia dissipata (Kütz.) Rabenh.
+https://id.biodiversity.org.au/instance/algae/20233270	Synedra fasciculata Ehrenb.	taxonomic synonym	Nitzschia dissipata (Kütz.) Rabenh.
+https://id.biodiversity.org.au/instance/algae/20180368	Nitzschia sigma var. fasciculata Grunow	nomenclatural synonym	Nitzschia fasciculata (Grunow) Grunow
+https://id.biodiversity.org.au/instance/algae/20180369	Synedra frustulum Kütz.	nomenclatural synonym	Nitzschia frustulum (Kütz.) Grunow
+https://id.biodiversity.org.au/instance/algae/20233291	Ceratoneis longissima Bréb.	nomenclatural synonym	Nitzschia longissima (Bréb.) Ralfs
+https://id.biodiversity.org.au/instance/algae/20180373	Synedra palea Kütz.	nomenclatural synonym	Nitzschia palea (Kütz.) W.Sm.
+https://id.biodiversity.org.au/instance/algae/20130127	Nitzschia obtusa var. scalpelliformis (Grunow) Grunow	nomenclatural synonym	Nitzschia scalpelliformis Grunow
+https://id.biodiversity.org.au/instance/algae/20180374	Synedra sigma Kütz.	nomenclatural synonym	Nitzschia sigma (Kütz.) W.Sm.
+https://id.biodiversity.org.au/instance/algae/20233190	Nitzschia apiculata (W.Greg.) Grunow	nomenclatural synonym	Tryblionella apiculata W.Greg.
+https://id.biodiversity.org.au/instance/algae/20233191	Nitzschia constricta (Kütz.) Ralfs	taxonomic synonym	Tryblionella apiculata W.Greg.
+https://id.biodiversity.org.au/instance/algae/20178294	Nitzschia punctata var. coarctata (Grunow) Hust.	nomenclatural synonym	Tryblionella coarctata (Grunow) D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20180389	Nitzschia coarctata Grunow	nomenclatural synonym	Tryblionella coarctata (Grunow) D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20233261	Nitzschia compressa (Bailey) C.S.Boyer	nomenclatural synonym	Tryblionella compressa (Bailey) Poulin
+https://id.biodiversity.org.au/instance/algae/20233262	Pyxidicula compressa Bailey	nomenclatural synonym	Tryblionella compressa (Bailey) Poulin
+https://id.biodiversity.org.au/instance/algae/20180394	Nitzschia granulata Grunow	nomenclatural synonym	Tryblionella granulata (Grunow) D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20233823	Nitzschia tryblionella Hantzsch	taxonomic synonym	Tryblionella hantzschiana Grunow
+https://id.biodiversity.org.au/instance/algae/20180395	Nitzschia hungarica Grunow	nomenclatural synonym	Tryblionella hungarica (Grunow) Freng.
+https://id.biodiversity.org.au/instance/algae/20233300	Nitzschia marginulata Grunow	nomenclatural synonym	Tryblionella marginulata (Grunow) D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20233509	Nitzschia punctata (W.Sm.) Grunow	nomenclatural synonym	Tryblionella punctata W.Sm.
+https://id.biodiversity.org.au/instance/algae/20180398	Synedra scalaris Ehrenb.	nomenclatural synonym	Tryblionella scalaris (Ehrenb.) Siver & P.B.Hamilton
+https://id.biodiversity.org.au/instance/algae/20178308	Nitzschia scalaris (Ehrenb.) W.Sm.	nomenclatural synonym	Tryblionella scalaris (Ehrenb.) Siver & P.B.Hamilton
+https://id.biodiversity.org.au/instance/algae/20233827	Nitzschia tryblionella var. victoriae (Grunow) Grunow	nomenclatural synonym	Tryblionella victoriae Grunow
+https://id.biodiversity.org.au/instance/algae/20233828	Tryblionella hantzschiana var. victoriae (Grunow) Playfair	nomenclatural synonym	Tryblionella victoriae Grunow
+https://id.biodiversity.org.au/instance/algae/20229111	Cocconeis placentula var. lineata (Ehrenb.) Van Heurck	nomenclatural synonym	Cocconeis lineata Ehrenb.
+https://id.biodiversity.org.au/instance/algae/20180359	Cocconeis euglypta Ehrenb.	nomenclatural synonym	Cocconeis placentula var. euglypta (Ehrenb.) Cleve
+https://id.biodiversity.org.au/instance/algae/20180360	Cocconeis scutellum f. parva Grunow	nomenclatural synonym	Cocconeis scutellum var. parva (Grunow) Cleve
+https://id.biodiversity.org.au/instance/algae/20216717	Anomoeoneis sphaerophora var. sculpta (Ehrenb.) O.Müll.	nomenclatural synonym	Anomoeoneis sculpta (Ehrenb.) Cleve
+https://id.biodiversity.org.au/instance/algae/20216719	Navicula sculpta Ehrenb.	nomenclatural synonym	Anomoeoneis sculpta (Ehrenb.) Cleve
+https://id.biodiversity.org.au/instance/algae/20216721	Anomoeoneis sphaerophora f. sculpta (Ehrenb.) Krammer	nomenclatural synonym	Anomoeoneis sculpta (Ehrenb.) Cleve
+https://id.biodiversity.org.au/instance/algae/20216129	Cymbella gastroides (Kütz.) Bréb. & Godey	taxonomic synonym	Cymbella aspera (Ehrenb.) Cleve
+https://id.biodiversity.org.au/instance/algae/20216128	Cocconema asperum Ehrenb.	nomenclatural synonym	Cymbella aspera (Ehrenb.) Cleve
+https://id.biodiversity.org.au/instance/algae/20216044	Cocconema gracile Ehrenb.	nomenclatural synonym	Cymbella gracilis (Ehrenb.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20217466	Cymbella naviculiformis Auersw. ex Heiberg	nomenclatural synonym	Cymbopleura naviculiformis (Auersw. ex Heiberg) K.Krammer
+https://id.biodiversity.org.au/instance/algae/20217475	Cymbella cuspidata Kütz.	taxonomic synonym	Cymbopleura naviculiformis (Auersw. ex Heiberg) K.Krammer
+https://id.biodiversity.org.au/instance/algae/20229588	Cymbella elginensis Krammer	nomenclatural synonym	Encyonema elginense (Krammer) D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20229589	Encyonema turgidum (W.Greg.) Grunow	taxonomic synonym	Encyonema elginense (Krammer) D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20229666	Cymbella turgida W.Greg.	taxonomic synonym	Encyonema elginense (Krammer) D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20180406	Cymbella minuta Hilse	nomenclatural synonym	Encyonema minutum (Hilse) D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20232636	Navicula clementis Grunow	nomenclatural synonym	Placoneis clementis (Grunow) E.J.Cox
+https://id.biodiversity.org.au/instance/algae/20230142	Gomphonema truncatum var. capitatum (Ehrenb.) Woodhead & Tweed	nomenclatural synonym	Gomphonema capitatum Ehrenb.
+https://id.biodiversity.org.au/instance/algae/20230143	Gomphonema constrictum var. capitatum (Ehrenb.) Grunow	nomenclatural synonym	Gomphonema capitatum Ehrenb.
+https://id.biodiversity.org.au/instance/algae/20230133	Sphenella parvula Kütz.	nomenclatural synonym	Gomphonema parvulum (Kütz.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20230134	Gomphonema parvulum var. lanceolatum Grunow	taxonomic synonym	Gomphonema parvulum (Kütz.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20230135	Gomphonema parvulum var. subcapitatum Grunow	taxonomic synonym	Gomphonema parvulum (Kütz.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20217588	Eunotia curvata (Kütz.) Lagerst.	taxonomic synonym	Eunotia bilunaris (Ehrenb.) Schaarschm.
+https://id.biodiversity.org.au/instance/algae/20217589	Exilaria curvata Kütz.	taxonomic synonym	Eunotia bilunaris (Ehrenb.) Schaarschm.
+https://id.biodiversity.org.au/instance/algae/20217590	Synedra bilunaris Ehrenb.	nomenclatural synonym	Eunotia bilunaris (Ehrenb.) Schaarschm.
+https://id.biodiversity.org.au/instance/algae/20180417	Himantidium exiguum Bréb. ex Kütz.	nomenclatural synonym	Eunotia exigua (Bréb. ex Kütz.) Rabenh.
+https://id.biodiversity.org.au/instance/algae/20217617	Himantidium minus Kütz.	nomenclatural synonym	Eunotia minor (Kütz.) Grunow
+https://id.biodiversity.org.au/instance/algae/20217618	Eunotia pectinalis var. minor (Kütz.) Rabenh.	taxonomic synonym	Eunotia minor (Kütz.) Grunow
+https://id.biodiversity.org.au/instance/algae/20217292	Himantidium pectinale Kütz.	nomenclatural synonym	Eunotia pectinalis (Kütz.) Rabenh.
+https://id.biodiversity.org.au/instance/algae/20217611	Eunotia pectinalis f. impressa (O.Müll.) Ant.Mayer	taxonomic synonym	Eunotia pectinalis (Kütz.) Rabenh.
+https://id.biodiversity.org.au/instance/algae/20236667	Triceratium dubium Brightw.	nomenclatural synonym	Pseudictyota dubia (Brightw.) P.A.Sims & D.M.Williams
+https://id.biodiversity.org.au/instance/algae/20236668	Odontella dubia (Brightw.) Cleve	nomenclatural synonym	Pseudictyota dubia (Brightw.) P.A.Sims & D.M.Williams
+https://id.biodiversity.org.au/instance/algae/20236669	Biddulphia dubia (Brightw.) Cleve	nomenclatural synonym	Pseudictyota dubia (Brightw.) P.A.Sims & D.M.Williams
+https://id.biodiversity.org.au/instance/algae/20232600	Navicula abrupta (W.Greg.) Donkin	nomenclatural synonym	Lyrella abrupta (W.Greg.) D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20232601	Navicula lyra var. abrupta W.Greg.	nomenclatural synonym	Lyrella abrupta (W.Greg.) D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20180238	Navicula hennedyi W.Sm.	nomenclatural synonym	Lyrella hennedyi (W.Sm.) Stickle & D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20232346	Navicula lyra Ehrenb.	nomenclatural synonym	Lyrella lyra (Ehrenb.) Karaeva
+https://id.biodiversity.org.au/instance/algae/20232347	Navicula lyra f. typica H.Perag. & Perag.	taxonomic synonym	Lyrella lyra (Ehrenb.) Karaeva
+https://id.biodiversity.org.au/instance/algae/20180248	Navicula sulcifera Hust.	nomenclatural synonym	Lyrella sulcifera (Hust.) Witkowski
+https://id.biodiversity.org.au/instance/algae/20180467	Cocconeis binotata Grunow	nomenclatural synonym	Mastogloia binotata (Grunow) Cleve
+https://id.biodiversity.org.au/instance/algae/20180470	Dickieia danseyi Thwaites	nomenclatural synonym	Mastogloia danseyi (Thwaites) Thwaites ex W.Sm.
+https://id.biodiversity.org.au/instance/algae/20178402	Mastogloia elliptica var. danseyi (Thwaites) Cleve	nomenclatural synonym	Mastogloia danseyi (Thwaites) Thwaites ex W.Sm.
+https://id.biodiversity.org.au/instance/algae/20180471	Frustulia elliptica C.Agardh	nomenclatural synonym	Mastogloia elliptica (C.Agardh) Cleve
+https://id.biodiversity.org.au/instance/algae/20180982	Mastogloia braunii var. pumila Grunow	nomenclatural synonym	Mastogloia pumila (Grunow) Cleve
+https://id.biodiversity.org.au/instance/algae/20215794	Amphora ostrearia Bréb. ex Kütz.	nomenclatural synonym	Tetramphora ostrearia (Bréb. ex Kütz.) Mereschk.
+https://id.biodiversity.org.au/instance/algae/20180475	Navicula creuzburgensis Krasske	nomenclatural synonym	Frustulia creuzburgensis (Krasske) Hust.
+https://id.biodiversity.org.au/instance/algae/20217766	Navicula rhomboides Ehrenb.	nomenclatural synonym	Frustulia rhomboides (Ehrenb.) De Toni
+https://id.biodiversity.org.au/instance/algae/20217767	Vanheurckia rhomboides (Ehrenb.) Bréb.	nomenclatural synonym	Frustulia rhomboides (Ehrenb.) De Toni
+https://id.biodiversity.org.au/instance/algae/20217394	Schizonema vulgare Thwaites	nomenclatural synonym	Frustulia vulgaris (Thwaites) De Toni
+https://id.biodiversity.org.au/instance/algae/20217395	Vanheurckia vulgaris (Thwaites) Van Heurck	nomenclatural synonym	Frustulia vulgaris (Thwaites) De Toni
+https://id.biodiversity.org.au/instance/algae/20217771	Frustulia vulgaris var. elliptica Hust.	taxonomic synonym	Frustulia vulgaris (Thwaites) De Toni
+https://id.biodiversity.org.au/instance/algae/20180484	Amphora fontinalis Hust.	nomenclatural synonym	Halamphora fontinalis (Hust.) Levkov
+https://id.biodiversity.org.au/instance/algae/20180485	Amphora granulata W.Greg.	nomenclatural synonym	Halamphora granulata (W.Greg.) Levkov
+https://id.biodiversity.org.au/instance/algae/20180486	Amphora holsatica Hust.	nomenclatural synonym	Halamphora holsatica (Hust.) Levkov
+https://id.biodiversity.org.au/instance/algae/20215774	Amphora hyalina Kütz.	nomenclatural synonym	Halamphora hyalina (Kütz.) Rimet & R.Jahn
+https://id.biodiversity.org.au/instance/algae/20216010	Amphora veneta var. capitata E.Y.Haw.	taxonomic synonym	Halamphora oligotraphenta (Lange-Bert.) Levkov
+https://id.biodiversity.org.au/instance/algae/20180488	Amphora turgida W.Greg.	nomenclatural synonym	Halamphora turgida (W.Greg.) Levkov
+https://id.biodiversity.org.au/instance/algae/20180489	Amphora veneta Kütz.	nomenclatural synonym	Halamphora veneta (Kütz.) Levkov
+https://id.biodiversity.org.au/instance/algae/20180493	Conferva rutilans Trentep. ex Roth	nomenclatural synonym	Berkeleya rutilans (Trentep. ex Roth) Grunow
+https://id.biodiversity.org.au/instance/algae/20178429	Amphipleura rutilans (Trentep. ex Roth) Cleve	nomenclatural synonym	Berkeleya rutilans (Trentep. ex Roth) Grunow
+https://id.biodiversity.org.au/instance/algae/20215801	Anomoeoneis serians var. brachysira (Bréb. ex Rabenh.) Hust.	taxonomic synonym	Brachysira brebissonii R.Ross
+https://id.biodiversity.org.au/instance/algae/20215902	Frustulia serians Bréb. ex Kütz.	nomenclatural synonym	Brachysira serians (Bréb.) Round & D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20234408	Anomoeoneis serians (Bréb. ex Kütz.) Cleve	nomenclatural synonym	Brachysira serians (Bréb.) Round & D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20180496	Navicula styriaca Grunow	nomenclatural synonym	Brachysira styriaca (Grunow) R.Ross
+https://id.biodiversity.org.au/instance/algae/20178434	Anomoeoneis styriaca (Grunow) Hust.	nomenclatural synonym	Brachysira styriaca (Grunow) R.Ross
+https://id.biodiversity.org.au/instance/algae/20130184	Navicula pusilla W.Sm.	nomenclatural synonym	Cosmioneis pusilla (W.Sm.) D.G.Mann & A.J.Stickle
+https://id.biodiversity.org.au/instance/algae/20216140	Navicula confervacea (Kütz.) Grunow	nomenclatural synonym	Diadesmis confervacea Kütz.
+https://id.biodiversity.org.au/instance/algae/20130330	Navicula inserata Hust.	nomenclatural synonym	Luticola inserata (Hust.) D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20180502	Navicula mutica Kütz.	nomenclatural synonym	Luticola mutica (Kütz.) D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20180503	Navicula muticoides Hust.	nomenclatural synonym	Luticola muticoides (Hust.) D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20237685	Navicula inserata var. undulata Hust.	taxonomic synonym	Luticola tropica Levkov, Metzeltin & A.Pavlov
+https://id.biodiversity.org.au/instance/algae/20237686	Luticola inserata var. undulata (Hust.) J.N.Navarro & Lobban	taxonomic synonym	Luticola tropica Levkov, Metzeltin & A.Pavlov
+https://id.biodiversity.org.au/instance/algae/20180509	Navicula chersonensis Grunow	nomenclatural synonym	Diploneis chersonensis (Grunow) Cleve
+https://id.biodiversity.org.au/instance/algae/20216542	Pinnularia crabro Ehrenb.	nomenclatural synonym	Diploneis crabro (Ehrenb.) Ehrenb.
+https://id.biodiversity.org.au/instance/algae/20216547	Pinnularia didyma Ehrenb.	nomenclatural synonym	Diploneis didyma (Ehrenb.) Ehrenb.
+https://id.biodiversity.org.au/instance/algae/20180517	Navicula elliptica Kütz.	nomenclatural synonym	Diploneis elliptica (Kütz.) Cleve
+https://id.biodiversity.org.au/instance/algae/20180522	Navicula interrupta Kütz.	nomenclatural synonym	Diploneis interrupta (Kütz.) Cleve
+https://id.biodiversity.org.au/instance/algae/20229975	Diploneis smithii var. rhombica Mereschk.	taxonomic synonym	Diploneis mereschkowskyi Lange-Bert., Fuhrmann & Werum
+https://id.biodiversity.org.au/instance/algae/20180524	Navicula notabilis Grev.	nomenclatural synonym	Diploneis notabilis (Grev.) Cleve
+https://id.biodiversity.org.au/instance/algae/20180525	Pinnularia ovalis Hilse	nomenclatural synonym	Diploneis ovalis (Hilse) Cleve
+https://id.biodiversity.org.au/instance/algae/20229956	Navicula papula A.W.F.Schmidt	nomenclatural synonym	Diploneis papula (A.W.F.Schmidt) Cleve
+https://id.biodiversity.org.au/instance/algae/20229964	Navicula smithii Bréb.	nomenclatural synonym	Diploneis smithii (Bréb.) Cleve
+https://id.biodiversity.org.au/instance/algae/20180208	Navicula smithii var. suborbicularis W.Greg.	nomenclatural synonym	Diploneis suborbicularis (W.Greg.) Cleve
+https://id.biodiversity.org.au/instance/algae/20229983	Navicula vacillans A.W.F.Schmidt	nomenclatural synonym	Diploneis vacillans (A.W.F.Schmidt) Cleve
+https://id.biodiversity.org.au/instance/algae/20180218	Navicula liber W.Sm.	nomenclatural synonym	Caloneis liber (W.Sm.) Cleve
+https://id.biodiversity.org.au/instance/algae/20236290	Stauroneis spicula Hickie	nomenclatural synonym	Haslea spicula (Hickie) Bukht.
+https://id.biodiversity.org.au/instance/algae/20236291	Navicula spicula (Hickie) Cleve	nomenclatural synonym	Haslea spicula (Hickie) Bukht.
+https://id.biodiversity.org.au/instance/algae/20232624	Navicula capitata Ehrenb.	nomenclatural synonym	Hippodonta capitata (Ehrenb.) Lange-Bert., Metzeltin & Witkowski
+https://id.biodiversity.org.au/instance/algae/20232625	Navicula hungarica var. capitata (Ehrenb.) Cleve	nomenclatural synonym	Hippodonta capitata (Ehrenb.) Lange-Bert., Metzeltin & Witkowski
+https://id.biodiversity.org.au/instance/algae/20178512	Navicula biformis (Grunow) A.Mann	nomenclatural synonym	Mastoneis biformis (Grunow) Cleve
+https://id.biodiversity.org.au/instance/algae/20178513	Stauroneis biformis Grunow	nomenclatural synonym	Mastoneis biformis (Grunow) Cleve
+https://id.biodiversity.org.au/instance/algae/20180254	Pinnularia cincta Ehrenb.	nomenclatural synonym	Navicula cincta (Ehrenb.) Ralfs
+https://id.biodiversity.org.au/instance/algae/20130310	Navicula cincta var. leptocephala (Bréb.) Grunow	taxonomic synonym	Navicula erifuga Lange-Bert.
+https://id.biodiversity.org.au/instance/algae/20130988	Navicula heufleri var. leptocephala (Bréb. ex Grunow) H.Perag. & Perag.	taxonomic synonym	Navicula erifuga Lange-Bert.
+https://id.biodiversity.org.au/instance/algae/20180260	Pinnularia gastrum Ehrenb.	nomenclatural synonym	Navicula gastrum (Ehrenb.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20233067	Navicula viridula var. germainii (J.H.Wallace) Lange-Bert.	nomenclatural synonym	Navicula germainii J.H.Wallace
+https://id.biodiversity.org.au/instance/algae/20233066	Navicula rhynchocephala var. germainii (J.H.Wallace) R.M.Patrick	nomenclatural synonym	Navicula germainii J.H.Wallace
+https://id.biodiversity.org.au/instance/algae/20232694	Navicula peregrina var. meniscus (Schum.) Grunow	nomenclatural synonym	Navicula meniscus Schum.
+https://id.biodiversity.org.au/instance/algae/20232768	Pinnularia peregrina Ehrenb.	nomenclatural synonym	Navicula peregrina (Ehrenb.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20232982	Navicula radiosa var. acuta (W.Sm.) Grunow	taxonomic synonym	Navicula radiosa Kütz.
+https://id.biodiversity.org.au/instance/algae/20232681	Vibrio tripunctatus O.F.Müll.	nomenclatural synonym	Navicula tripunctata (O.F.Müll.) Bory
+https://id.biodiversity.org.au/instance/algae/20232680	Navicula gracilis Ehrenb.	taxonomic synonym	Navicula tripunctata (O.F.Müll.) Bory
+https://id.biodiversity.org.au/instance/algae/20232682	Vanheurckia rhomboides var. neglecta (Thwaites) Playfair	taxonomic synonym	Navicula tripunctata (O.F.Müll.) Bory
+https://id.biodiversity.org.au/instance/algae/20232618	Navicula bastowii Hust.	taxonomic synonym	Navicula uniseriata Østrup
+https://id.biodiversity.org.au/instance/algae/20233134	Frustulia viridula Kütz.	nomenclatural synonym	Navicula viridula (Kütz.) Ehrenb.
+https://id.biodiversity.org.au/instance/algae/20233149	Navicula yarrensis Grunow	nomenclatural synonym	Pinnunavis yarrensis (Grunow) Okuno
+https://id.biodiversity.org.au/instance/algae/20233150	Pinnularia yarrensis (Grunow) Jurilj	nomenclatural synonym	Pinnunavis yarrensis (Grunow) Okuno
+https://id.biodiversity.org.au/instance/algae/20180278	Amphora ventricosa W.Greg.	nomenclatural synonym	Seminavis ventricosa (W.Greg.) M.Garcia-Baptista
+https://id.biodiversity.org.au/instance/algae/20236581	Trachyneis aspera var. pulchella (W.Sm.) Cleve	taxonomic synonym	Trachyneis aspera (Ehrenb.) Cleve
+https://id.biodiversity.org.au/instance/algae/20236582	Stauroneis aspera (Ehrenb.) Kütz.	nomenclatural synonym	Trachyneis aspera (Ehrenb.) Cleve
+https://id.biodiversity.org.au/instance/algae/20236583	Stauroneis pulchella W.Sm.	taxonomic synonym	Trachyneis aspera (Ehrenb.) Cleve
+https://id.biodiversity.org.au/instance/algae/20236629	Trachyneis aspera var. intermedia (Grunow ex A.W.F.Schmidt) Cleve	nomenclatural synonym	Trachyneis intermedia (Grunow ex A.W.F.Schmidt) Bailey
+https://id.biodiversity.org.au/instance/algae/20236628	Navicula aspera var. intermedia Grunow ex A.W.F.Schmidt	nomenclatural synonym	Trachyneis intermedia (Grunow ex A.W.F.Schmidt) Bailey
+https://id.biodiversity.org.au/instance/algae/20217659	Navicula tenera Hust.	nomenclatural synonym	Pseudofallacia tenera (Hust.) Yan Liu bis, Kociolek & Q.X.Wang
+https://id.biodiversity.org.au/instance/algae/20217660	Fallacia tenera (Hust.) D.G.Mann	nomenclatural synonym	Pseudofallacia tenera (Hust.) Yan Liu bis, Kociolek & Q.X.Wang
+https://id.biodiversity.org.au/instance/algae/20217661	Navicula dissipata Hust.	taxonomic synonym	Pseudofallacia tenera (Hust.) Yan Liu bis, Kociolek & Q.X.Wang
+https://id.biodiversity.org.au/instance/algae/20233155	Navicula iridis var. affinis (Ehrenb.) O'Meara	nomenclatural synonym	Neidium affine (Ehrenb.) Pfitzer
+https://id.biodiversity.org.au/instance/algae/20130713	Navicula amphirhynchus Ehrenb.	nomenclatural synonym	Neidium affine var. amphirhynchus (Ehrenb.) Cleve
+https://id.biodiversity.org.au/instance/algae/20180285	Navicula producta W.Sm.	nomenclatural synonym	Neidium productum (W.Sm.) Cleve
+https://id.biodiversity.org.au/instance/algae/20236341	Stauroneis pachycephala Cleve	nomenclatural synonym	Envekadea pachycephala (Cleve) Cleve
+https://id.biodiversity.org.au/instance/algae/20235463	Navicula borealis (Ehrenb.) Kütz.	nomenclatural synonym	Pinnularia borealis Ehrenb.
+https://id.biodiversity.org.au/instance/algae/20235521	Pinnularia nobilis var. gentilis (Donkin) Van Heurck	nomenclatural synonym	Pinnularia gentilis (Donkin) Cleve
+https://id.biodiversity.org.au/instance/algae/20235522	Navicula gentilis Donkin	nomenclatural synonym	Pinnularia gentilis (Donkin) Cleve
+https://id.biodiversity.org.au/instance/algae/20235490	Pinnularia biceps f. petersenii R.Ross	taxonomic synonym	Pinnularia interruptiformis Krammer
+https://id.biodiversity.org.au/instance/algae/20180290	Frustulia lata Bréb.	nomenclatural synonym	Pinnularia lata (Bréb.) W.Sm.
+https://id.biodiversity.org.au/instance/algae/20235538	Frustulia major Kütz.	nomenclatural synonym	Pinnularia major (Kütz.) Rabenh.
+https://id.biodiversity.org.au/instance/algae/20235539	Navicula major (Kütz.) Kütz.	nomenclatural synonym	Pinnularia major (Kütz.) Rabenh.
+https://id.biodiversity.org.au/instance/algae/20178570	Pinnularia braunii var. amphicephala (A.Mayer) Hust.	nomenclatural synonym	Pinnularia mayeri Krammer
+https://id.biodiversity.org.au/instance/algae/20178569	Pinnularia amphicephala A.Mayer	nomenclatural synonym	Pinnularia mayeri Krammer
+https://id.biodiversity.org.au/instance/algae/20235526	Stauroptera parva Ehrenb.	taxonomic synonym	Pinnularia microstauron (Ehrenb.) Cleve
+https://id.biodiversity.org.au/instance/algae/20235527	Pinnularia gibba var. parva (Ehrenb.) Hust.	taxonomic synonym	Pinnularia microstauron (Ehrenb.) Cleve
+https://id.biodiversity.org.au/instance/algae/20235528	Stauroptera microstauron Ehrenb.	nomenclatural synonym	Pinnularia microstauron (Ehrenb.) Cleve
+https://id.biodiversity.org.au/instance/algae/20235529	Pinnularia brebissonii var. subproducta (Grunow) A.Cleve	taxonomic synonym	Pinnularia microstauron (Ehrenb.) Cleve
+https://id.biodiversity.org.au/instance/algae/20130777	Navicula nobilis Ehrenb.	nomenclatural synonym	Pinnularia nobilis (Ehrenb.) Ehrenb.
+https://id.biodiversity.org.au/instance/algae/20235550	Navicula viridis (Nitzsch) Ehrenb.	nomenclatural synonym	Pinnularia viridis (Nitzsch) Ehrenb.
+https://id.biodiversity.org.au/instance/algae/20235549	Bacillaria viridis Nitzsch	nomenclatural synonym	Pinnularia viridis (Nitzsch) Ehrenb.
+https://id.biodiversity.org.au/instance/algae/20178586	Tropidoneis lepidoptera (W.Greg.) Cleve	nomenclatural synonym	Plagiotropis lepidoptera (W.Greg.) Kuntze
+https://id.biodiversity.org.au/instance/algae/20180303	Amphiprora lepidoptera W.Greg.	nomenclatural synonym	Plagiotropis lepidoptera (W.Greg.) Kuntze
+https://id.biodiversity.org.au/instance/algae/20235706	Pleurosigma spenceri (Bailey ex J.T.Quekett) W.Sm.	taxonomic synonym	Gyrosigma acuminatum (Kütz.) Rabenh.
+https://id.biodiversity.org.au/instance/algae/20236898	Gyrosigma spenceri (Bailey ex J.T.Quekett) J.W.Griff. & Henfr.	taxonomic synonym	Gyrosigma acuminatum (Kütz.) Rabenh.
+https://id.biodiversity.org.au/instance/algae/20178590	Pleurosigma balticum (Ehrenb.) W.Sm.	nomenclatural synonym	Gyrosigma balticum (Ehrenb.) Rabenh.
+https://id.biodiversity.org.au/instance/algae/20180306	Navicula baltica Ehrenb.	nomenclatural synonym	Gyrosigma balticum (Ehrenb.) Rabenh.
+https://id.biodiversity.org.au/instance/algae/20180307	Pleurosigma distortum W.Sm.	nomenclatural synonym	Gyrosigma distortum (W.Sm.) J.W.Griff. & Henfr.
+https://id.biodiversity.org.au/instance/algae/20180308	Schizonema eximium Thwaites	nomenclatural synonym	Gyrosigma eximium (Thwaites) C.S.Boyer
+https://id.biodiversity.org.au/instance/algae/20180312	Pleurosigma obscurum W.Sm.	nomenclatural synonym	Gyrosigma obscurum (W.Sm.) J.W.Griff. & Henfr.
+https://id.biodiversity.org.au/instance/algae/20180317	Navicula aestuarii Bréb. ex Kütz.	nomenclatural synonym	Pleurosigma aestuarii (Bréb. ex Kütz.) W.Sm.
+https://id.biodiversity.org.au/instance/algae/20180318	Navicula angulata J.T.Quekett	nomenclatural synonym	Pleurosigma angulatum (J.T.Quekett) W.Sm.
+https://id.biodiversity.org.au/instance/algae/20235667	Gyrosigma elongatum (W.Sm.) J.W.Griff. & Henfr.	nomenclatural synonym	Pleurosigma elongatum W.Sm.
+https://id.biodiversity.org.au/instance/algae/20235680	Pleurosigma naviculaceum Bréb.	taxonomic synonym	Pleurosigma inflatum Shadbolt
+https://id.biodiversity.org.au/instance/algae/20235703	Gyrosigma speciosum (W.Sm.) J.W.Griff. & Henfr.	nomenclatural synonym	Pleurosigma speciosum W.Sm.
+https://id.biodiversity.org.au/instance/algae/20217335	Navicula pygmaea Kütz.	nomenclatural synonym	Fallacia pygmaea (Kütz.) Stickle & D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20180333	Navicula americana Ehrenb.	nomenclatural synonym	Sellaphora americana (Ehrenb.) D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20130189	Navicula pupula Kütz.	nomenclatural synonym	Sellaphora pupula (Kütz.) Mereschk.
+https://id.biodiversity.org.au/instance/algae/20232969	Navicula pupula var. capitata Skvortsov & C.I.Mey.	nomenclatural synonym	Sellaphora pupula f. capitata (Skvortsov & C.I.Mey.) Poulin
+https://id.biodiversity.org.au/instance/algae/20232970	Navicula pupula f. capitata (Skvortzov & K.I.Mey.) Hust.	nomenclatural synonym	Sellaphora pupula f. capitata (Skvortsov & C.I.Mey.) Poulin
+https://id.biodiversity.org.au/instance/algae/20232645	Navicula cuspidata (Kütz.) Kütz.	nomenclatural synonym	Craticula cuspidata (Kütz.) D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20232647	Vanheurckia cuspidata (Kütz.) Bréb.	nomenclatural synonym	Craticula cuspidata (Kütz.) D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20232646	Frustulia cuspidata Kütz.	nomenclatural synonym	Craticula cuspidata (Kütz.) D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20178489	Navicula halophila (Grunow) Cleve	nomenclatural synonym	Craticula halophila (Grunow) D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20180228	Navicula cuspidata var. halophila Grunow	nomenclatural synonym	Craticula halophila (Grunow) D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20180336	Bacillaria phoenicenteron Nitzsch	nomenclatural synonym	Stauroneis phoenicenteron (Nitzsch) Ehrenb.
+https://id.biodiversity.org.au/instance/algae/20217262	Epithemia zebra (Ehrenb.) Kütz.	taxonomic synonym	Epithemia adnata (Kütz.) Bréb.
+https://id.biodiversity.org.au/instance/algae/20180533	Epithemia zebra var. minor Perag. & Hérib.	nomenclatural synonym	Epithemia adnata var. minor (Perag. & Hérib.) R.M.Patrick
+https://id.biodiversity.org.au/instance/algae/20180534	Eunotia argus Ehrenb.	nomenclatural synonym	Epithemia argus (Ehrenb.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20217244	Eunotia turgida (Ehrenb.) Ehrenb.	nomenclatural synonym	Epithemia turgida (Ehrenb.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20217245	Cystopleura turgida (Ehrenb.) Kuntze	nomenclatural synonym	Epithemia turgida (Ehrenb.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20217256	Epithemia westermannii (Ehrenb.) Kütz.	nomenclatural synonym	Epithemia turgida var. westermannii (Ehrenb.) Grunow
+https://id.biodiversity.org.au/instance/algae/20217257	Navicula westermannii Ehrenb.	nomenclatural synonym	Epithemia turgida var. westermannii (Ehrenb.) Grunow
+https://id.biodiversity.org.au/instance/algae/20233074	Epithemia gibba (Ehrenb.) Kütz.	nomenclatural synonym	Rhopalodia gibba (Ehrenb.) O.Müll.
+https://id.biodiversity.org.au/instance/algae/20233075	Pinnularia gibba (Ehrenb.) Ehrenb.	nomenclatural synonym	Rhopalodia gibba (Ehrenb.) O.Müll.
+https://id.biodiversity.org.au/instance/algae/20233076	Cystopleura gibba (Ehrenb.) Kuntze	nomenclatural synonym	Rhopalodia gibba (Ehrenb.) O.Müll.
+https://id.biodiversity.org.au/instance/algae/20233077	Navicula gibba Ehrenb.	nomenclatural synonym	Rhopalodia gibba (Ehrenb.) O.Müll.
+https://id.biodiversity.org.au/instance/algae/20236176	Epithemia ventricosa Kütz.	nomenclatural synonym	Rhopalodia gibba var. ventricosa (Kütz.) H.Perag. & Perag.
+https://id.biodiversity.org.au/instance/algae/20236177	Epithemia gibba var. ventricosa (Kütz.) Grunow	nomenclatural synonym	Rhopalodia gibba var. ventricosa (Kütz.) H.Perag. & Perag.
+https://id.biodiversity.org.au/instance/algae/20236178	Rhopalodia ventricosa (Kütz.) O.Müll.	nomenclatural synonym	Rhopalodia gibba var. ventricosa (Kütz.) H.Perag. & Perag.
+https://id.biodiversity.org.au/instance/algae/20236187	Epithemia gibberula (Ehrenb.) Kütz.	nomenclatural synonym	Rhopalodia gibberula (Ehrenb.) O.Müll.
+https://id.biodiversity.org.au/instance/algae/20236188	Cystopleura gibberula (Ehrenb.) Kuntze	nomenclatural synonym	Rhopalodia gibberula (Ehrenb.) O.Müll.
+https://id.biodiversity.org.au/instance/algae/20236189	Eunotia gibberula Ehrenb.	nomenclatural synonym	Rhopalodia gibberula (Ehrenb.) O.Müll.
+https://id.biodiversity.org.au/instance/algae/20180551	Navicula alata Ehrenb.	nomenclatural synonym	Entomoneis alata (Ehrenb.) Ehrenb.
+https://id.biodiversity.org.au/instance/algae/20178663	Amphiprora alata (Ehrenb.) Kütz.	nomenclatural synonym	Entomoneis alata (Ehrenb.) Ehrenb.
+https://id.biodiversity.org.au/instance/algae/20180970	Amphiprora costata Hust.	nomenclatural synonym	Entomoneis costata (Hust.) Reimer
+https://id.biodiversity.org.au/instance/algae/20130672	Amphiprora paludosa W.Sm.	nomenclatural synonym	Entomoneis paludosa (W.Sm.) Reimer
+https://id.biodiversity.org.au/instance/algae/20216396	Campylodiscus clypeus var. bicostata (W.Sm. ex Roper) Hust.	nomenclatural synonym	Campylodiscus bicostatus W.Sm. ex Roper
+https://id.biodiversity.org.au/instance/algae/20180554	Cocconeis clypeus Ehrenb.	nomenclatural synonym	Campylodiscus clypeus (Ehrenb.) Ehrenb. ex Kütz.
+https://id.biodiversity.org.au/instance/algae/20236472	Surirella tenera W.Greg.	nomenclatural synonym	Iconella tenera (W.Greg.) Ruck & Nakov
+https://id.biodiversity.org.au/instance/algae/20233500	Nitzschia panduriformis W.Greg.	nomenclatural synonym	Psammodictyon panduriforme (W.Greg.) D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20236428	Stenopterobia anceps var. intermedia (F.W.Lewis) Playfair	nomenclatural synonym	Stenopterobia intermedia (F.W.Lewis) Van Heurck ex Hanna
+https://id.biodiversity.org.au/instance/algae/20236427	Surirella intermedia F.W.Lewis	nomenclatural synonym	Stenopterobia intermedia (F.W.Lewis) Van Heurck ex Hanna
+https://id.biodiversity.org.au/instance/algae/20236442	Surirella ovalis var. angusta (Kütz.) Van Heurck	nomenclatural synonym	Surirella angusta Kütz.
+https://id.biodiversity.org.au/instance/algae/20215881	Amphora ovalis var. affinis (Kütz.) Van Heurck	nomenclatural synonym	Amphora affinis Kütz.
+https://id.biodiversity.org.au/instance/algae/20215759	Amphora ovalis var. libyca (Ehrenb.) Cleve	nomenclatural synonym	Amphora libyca Ehrenb.
+https://id.biodiversity.org.au/instance/algae/20180572	Frustulia ovalis Kütz.	nomenclatural synonym	Amphora ovalis (Kütz.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20180574	Cymbella pediculus Kütz.	nomenclatural synonym	Amphora pediculus (Kütz.) Grunow ex A.W.F.Schmidt
+https://id.biodiversity.org.au/instance/algae/20178694	Amphora ovalis var. pediculus (Kütz.) Van Heurck	nomenclatural synonym	Amphora pediculus (Kütz.) Grunow ex A.W.F.Schmidt
+https://id.biodiversity.org.au/instance/algae/20180577	Spatangidium heptactis Bréb.	nomenclatural synonym	Asteromphalus heptactis (Bréb.) Ralfs
+https://id.biodiversity.org.au/instance/algae/20180579	Gaillonella distans Ehrenb.	nomenclatural synonym	Aulacoseira distans (Ehrenb.) Simonsen
+https://id.biodiversity.org.au/instance/algae/20178700	Melosira distans (Ehrenb.) Kütz.	nomenclatural synonym	Aulacoseira distans (Ehrenb.) Simonsen
+https://id.biodiversity.org.au/instance/algae/20215852	Melosira granulata (Ehrenb.) Ralfs	nomenclatural synonym	Aulacoseira granulata (Ehrenb.) Simonsen
+https://id.biodiversity.org.au/instance/algae/20232396	Gaillonella granulata Ehrenb.	nomenclatural synonym	Aulacoseira granulata (Ehrenb.) Simonsen
+https://id.biodiversity.org.au/instance/algae/20180580	Melosira granulata var. angustissima O.F.Müll.	nomenclatural synonym	Aulacoseira granulata var. angustissima (O.F.Müll.) Simonsen
+https://id.biodiversity.org.au/instance/algae/20180583	Actiniscus pennatus Grunow	nomenclatural synonym	Corethron pennatum (Grunow) Ostenf.
+https://id.biodiversity.org.au/instance/algae/20178706	Corethron criophilum Castrac.	taxonomic synonym	Corethron pennatum (Grunow) Ostenf.
+https://id.biodiversity.org.au/instance/algae/20180698	Actinocyclus senarius Ehrenb.	nomenclatural synonym	Actinoptychus senarius (Ehrenb.) Ehrenb.
+https://id.biodiversity.org.au/instance/algae/20178716	Actinoptychus undulatus (Kütz.) Ralfs	taxonomic synonym	Actinoptychus senarius (Ehrenb.) Ehrenb.
+https://id.biodiversity.org.au/instance/algae/20178715	Actinocyclus undulatus Kütz.	taxonomic synonym	Actinoptychus senarius (Ehrenb.) Ehrenb.
+https://id.biodiversity.org.au/instance/algae/20231878	Hemidiscus cuneiformis G.C.Wall.	nomenclatural synonym	Actinocyclus cuneiformis (G.C.Wall.) F.Gómez, Lu Wang & Senjie Lin
+https://id.biodiversity.org.au/instance/algae/20178721	Actinocyclus ehrenbergii Ralfs	taxonomic synonym	Actinocyclus octonarius Ehrenb.
+https://id.biodiversity.org.au/instance/algae/20180704	Coscinodiscus nodulifera A.W.F.Schmidt	nomenclatural synonym	Azpeitia nodulifera (A.W.F.Schmidt) G.A.Fryxell & P.A.Sims
+https://id.biodiversity.org.au/instance/algae/20180705	Coscinodiscus tabularis Grunow	nomenclatural synonym	Azpeitia tabularis (Grunow) G.A.Fryxell & P.A.Sims
+https://id.biodiversity.org.au/instance/algae/20232397	Melosira varians var. moniliformis (O.F.Müll.) Playfair	nomenclatural synonym	Melosira moniliformis (O.F.Müll.) C.Agardh
+https://id.biodiversity.org.au/instance/algae/20217643	Conferva moniliformis O.F.Müll.	nomenclatural synonym	Melosira moniliformis (O.F.Müll.) C.Agardh
+https://id.biodiversity.org.au/instance/algae/20217644	Melosira borreri Grev.	taxonomic synonym	Melosira moniliformis (O.F.Müll.) C.Agardh
+https://id.biodiversity.org.au/instance/algae/20130659	Lysigonium varians (C.Agardh) De Toni	nomenclatural synonym	Melosira varians C.Agardh
+https://id.biodiversity.org.au/instance/algae/20215564	Achnanthes taeniata Grunow	nomenclatural synonym	Pauliella taeniata (Grunow) Round & Basson
+https://id.biodiversity.org.au/instance/algae/20232306	Leptocylindrus mediterraneus (H.Perag.) Hasle	nomenclatural synonym	Dactyliosolen mediterraneus (H.Perag.) H.Perag.
+https://id.biodiversity.org.au/instance/algae/20180722	Rhizosolenia cylindrus Cleve	nomenclatural synonym	Guinardia cylindrus (Cleve) Hasle
+https://id.biodiversity.org.au/instance/algae/20180727	Rhizosolenia alata Brightw.	nomenclatural synonym	Proboscia alata (Brightw.) Sundström
+https://id.biodiversity.org.au/instance/algae/20180732	Rhizosolenia semispina Hensen	nomenclatural synonym	Rhizosolenia hebetata f. semispina (Hensen) Gran
+https://id.biodiversity.org.au/instance/algae/20236131	Rhizosolenia styliformis var. longispina Hust.	nomenclatural synonym	Rhizosolenia styliformis Brightw.
+https://id.biodiversity.org.au/instance/algae/20236172	Rhizosolenia setigera Brightw.	nomenclatural synonym	Sundstroemia setigera (Brightw.) Medlin
+https://id.biodiversity.org.au/instance/algae/20180767	Melosira costata Grev.	nomenclatural synonym	Skeletonema costatum (Grev.) Cleve
+https://id.biodiversity.org.au/instance/algae/20180768	Coscinodiscus striatus Kütz.	nomenclatural synonym	Cyclotella striata (Kütz.) Grunow
+https://id.biodiversity.org.au/instance/algae/20180770	Cyclotella meneghiniana var. stelligera Cleve & Grunow	nomenclatural synonym	Discostella stelligera (Cleve & Grunow) Houk & Klee
+https://id.biodiversity.org.au/instance/algae/20178807	Cyclotella stelligera (Cleve & Grunow) Van Heurck	nomenclatural synonym	Discostella stelligera (Cleve & Grunow) Houk & Klee
+https://id.biodiversity.org.au/instance/algae/20236571	Thalassiosira weissflogii (Grunow) Fryxell & Hasle	nomenclatural synonym	Conticribra weissflogii (Grunow) K.Stachura-Suchoples & D.M.Williams
+https://id.biodiversity.org.au/instance/algae/20236572	Micropodiscus weissflogii Grunow	nomenclatural synonym	Conticribra weissflogii (Grunow) K.Stachura-Suchoples & D.M.Williams
+https://id.biodiversity.org.au/instance/algae/20236573	Thalassiosira fluviatilis Hust.	taxonomic synonym	Conticribra weissflogii (Grunow) K.Stachura-Suchoples & D.M.Williams
+https://id.biodiversity.org.au/instance/algae/20180777	Coscinodiscus lacustris Grunow	nomenclatural synonym	Thalassiosira lacustris (Grunow) Hasle
+https://id.biodiversity.org.au/instance/algae/20180779	Coscinodiscus lineatus var. leptopus Grunow	nomenclatural synonym	Thalassiosira leptopus (Grunow) Hasle & Fryxell
+https://id.biodiversity.org.au/instance/algae/20178823	Coscinodiscus lineatus Ehrenb.	taxonomic synonym	Thalassiosira leptopus (Grunow) Hasle & Fryxell
+https://id.biodiversity.org.au/instance/algae/20130182	Cyclotella nana Hust.	taxonomic synonym	Thalassiosira pseudonana Hasle & Heimdal
+https://id.biodiversity.org.au/instance/algae/20216463	Denticula minor W.Greg.	nomenclatural synonym	Plagiogramma minus (W.Greg.) Chunlian Li, Ashworth & Witkowski
+https://id.biodiversity.org.au/instance/algae/20180796	Diatoma aurita Lyngb.	nomenclatural synonym	Odontella aurita (Lyngb.) C.Agardh
+https://id.biodiversity.org.au/instance/algae/20178843	Biddulphia aurita (Lyngb.) Bréb.	nomenclatural synonym	Odontella aurita (Lyngb.) C.Agardh
+https://id.biodiversity.org.au/instance/algae/20236679	Biddulphia robertsiana (Grev.) C.S.Boyer	nomenclatural synonym	Triceratium robertsianum Grev.
+https://id.biodiversity.org.au/instance/algae/20180420	Asterionella glacialis Castrac.	nomenclatural synonym	Asterionellopsis glacialis (Castrac.) Round
+https://id.biodiversity.org.au/instance/algae/20178336	Asterionella japonica Cleve	taxonomic synonym	Asterionellopsis glacialis (Castrac.) Round
+https://id.biodiversity.org.au/instance/algae/20229566	Synedra pulchella Kütz.	nomenclatural synonym	Ctenophora pulchella (Kütz.) D.M.Williams & Round
+https://id.biodiversity.org.au/instance/algae/20229567	Fragilaria pulchella (Kütz.) Lange-Bert.	nomenclatural synonym	Ctenophora pulchella (Kütz.) D.M.Williams & Round
+https://id.biodiversity.org.au/instance/algae/20216143	Diatoma elongata var. tenuis (C.Agardh) Van Heurck	nomenclatural synonym	Diatoma tenuis C.Agardh
+https://id.biodiversity.org.au/instance/algae/20217355	Exilaria vaucheriae Kütz.	nomenclatural synonym	Fragilaria vaucheriae (Kütz.) J.B.Petersen
+https://id.biodiversity.org.au/instance/algae/20217356	Fragilaria capucina var. vaucheriae (Kütz.) Lange-Bert.	nomenclatural synonym	Fragilaria vaucheriae (Kütz.) J.B.Petersen
+https://id.biodiversity.org.au/instance/algae/20217751	Synedra vaucheriae (Kütz.) Kütz.	nomenclatural synonym	Fragilaria vaucheriae (Kütz.) J.B.Petersen
+https://id.biodiversity.org.au/instance/algae/20217753	Fragilaria virescens Ralfs	nomenclatural synonym	Fragilariforma virescens (Ralfs) D.M.Williams & Round
+https://id.biodiversity.org.au/instance/algae/20217749	Fragilaria subsalina (Grunow) Lange-Bert.	nomenclatural synonym	Fragilariforma virescens var. subsalina (Grunow) Bukht.
+https://id.biodiversity.org.au/instance/algae/20217748	Fragilaria virescens var. subsalina Grunow	nomenclatural synonym	Fragilariforma virescens var. subsalina (Grunow) Bukht.
+https://id.biodiversity.org.au/instance/algae/20180435	Synedra laevigata Grunow	nomenclatural synonym	Hyalosynedra laevigata (Grunow) D.M.Williams & Round
+https://id.biodiversity.org.au/instance/algae/20180437	Echinella circularis Grev.	nomenclatural synonym	Meridion circulare (Grev.) C.Agardh
+https://id.biodiversity.org.au/instance/algae/20217345	Fragilaria brevistriata Grunow	nomenclatural synonym	Pseudostaurosira brevistriata (Grunow) D.M.Williams & Round
+https://id.biodiversity.org.au/instance/algae/20217679	Fragilaria construens (Ehrenb.) Grunow	nomenclatural synonym	Staurosira construens Ehrenb.
+https://id.biodiversity.org.au/instance/algae/20217694	Fragilaria construens var. venter (Ehrenb.) Grunow	nomenclatural synonym	Staurosira venter (Ehrenb.) Cleve & Jos.D.Möller
+https://id.biodiversity.org.au/instance/algae/20217695	Fragilaria venter Ehrenb.	nomenclatural synonym	Staurosira venter (Ehrenb.) Cleve & Jos.D.Möller
+https://id.biodiversity.org.au/instance/algae/20217696	Fragilaria construens f. venter (Ehrenb.) Hust.	nomenclatural synonym	Staurosira venter (Ehrenb.) Cleve & Jos.D.Möller
+https://id.biodiversity.org.au/instance/algae/20217727	Odontidium harrisonii W.Sm.	nomenclatural synonym	Staurosirella harrisonii (W.Sm.) E.Morales & C.E.Wetzel
+https://id.biodiversity.org.au/instance/algae/20217728	Fragilaria harrisonii (W.Sm.) Grunow	nomenclatural synonym	Staurosirella harrisonii (W.Sm.) E.Morales & C.E.Wetzel
+https://id.biodiversity.org.au/instance/algae/20233861	Opephora martyi Hérib.	nomenclatural synonym	Staurosirella martyi (Hérib.) E.Morales & Manoylov
+https://id.biodiversity.org.au/instance/algae/20233862	Martyana martyi (Hérib.) Round	nomenclatural synonym	Staurosirella martyi (Hérib.) E.Morales & Manoylov
+https://id.biodiversity.org.au/instance/algae/20217369	Fragilaria pinnata Ehrenb.	nomenclatural synonym	Staurosirella pinnata (Ehrenb.) D.M.Williams & Round
+https://id.biodiversity.org.au/instance/algae/20236489	Synedra acus var. varipunctata J.John	nomenclatural synonym	Synedropsis varipunctata (J.John) J.John & D.M.Williams
+https://id.biodiversity.org.au/instance/algae/20236560	Fragilaria fasciculata (C.Agardh) Lange-Bert.	nomenclatural synonym	Tabularia fasciculata (C.Agardh) D.M.Williams & Round
+https://id.biodiversity.org.au/instance/algae/20236561	Fragilaria tabulata (C.Agardh) Lange-Bert.	taxonomic synonym	Tabularia fasciculata (C.Agardh) D.M.Williams & Round
+https://id.biodiversity.org.au/instance/algae/20236562	Synedra tabulata var. fasciculata (C.Agardh) Grunow ex Hust.	nomenclatural synonym	Tabularia fasciculata (C.Agardh) D.M.Williams & Round
+https://id.biodiversity.org.au/instance/algae/20236563	Echinella fasciculata (C.Agardh) Lyngb.	nomenclatural synonym	Tabularia fasciculata (C.Agardh) D.M.Williams & Round
+https://id.biodiversity.org.au/instance/algae/20236559	Diatoma fasciculata C.Agardh	nomenclatural synonym	Tabularia fasciculata (C.Agardh) D.M.Williams & Round
+https://id.biodiversity.org.au/instance/algae/20237549	Synedra tabulata (C.Agardh) Kütz.	nomenclatural synonym	Tabularia tabulata (C.Agardh) Snoeijs
+https://id.biodiversity.org.au/instance/algae/20180543	Diatoma marinum Lyngb.	nomenclatural synonym	Grammatophora marina (Lyngb.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20180544	Grammatophora macilenta W.Sm.	nomenclatural synonym	Grammatophora oceanica var. macilenta (W.Sm.) Grunow
+https://id.biodiversity.org.au/instance/algae/20237170	Podosphenia ehrenbergii Kütz.	nomenclatural synonym	Licmophora ehrenbergii (Kütz.) Grunow
+https://id.biodiversity.org.au/instance/algae/20180460	Exilaria flabellata Grev.	nomenclatural synonym	Licmophora flabellata (Grev.) C.Agardh
+https://id.biodiversity.org.au/instance/algae/20180463	Echinella paradoxa Lyngb.	nomenclatural synonym	Licmophora paradoxa (Lyngb.) C.Agardh
+https://id.biodiversity.org.au/instance/algae/20236451	Synedra acus Kütz.	nomenclatural synonym	Ulnaria acus (Kütz.) Aboal
+https://id.biodiversity.org.au/instance/algae/20236452	Fragilaria ulna var. acus (Kütz.) Lange-Bert.	nomenclatural synonym	Ulnaria acus (Kütz.) Aboal
+https://id.biodiversity.org.au/instance/algae/20180455	Synedra danica Kütz.	nomenclatural synonym	Ulnaria danica (Kütz.) Compère & Bukht.
+https://id.biodiversity.org.au/instance/algae/20178383	Synedra ulna var. danica (Kütz.) Van Heurck	nomenclatural synonym	Ulnaria danica (Kütz.) Compère & Bukht.
+https://id.biodiversity.org.au/instance/algae/20236528	Synedra ulna (Nitzsch) Ehrenb.	nomenclatural synonym	Ulnaria ulna (Nitzsch) Compère
+https://id.biodiversity.org.au/instance/algae/20236529	Bacillaria ulna Nitzsch	nomenclatural synonym	Ulnaria ulna (Nitzsch) Compère
+https://id.biodiversity.org.au/instance/algae/20236530	Fragilaria ulna (Nitzsch) Lange-Bert.	nomenclatural synonym	Ulnaria ulna (Nitzsch) Compère
+https://id.biodiversity.org.au/instance/algae/20180337	Coscinodiscus nitidus W.Greg.	nomenclatural synonym	Psammodiscus nitidus (W.Greg.) Round & D.G.Mann
+https://id.biodiversity.org.au/instance/algae/20236068	Rhaphoneis surirelloides Simonsen	nomenclatural synonym	Delphineis surirelloides (Simonsen) G.W.Andrews
+https://id.biodiversity.org.au/instance/algae/20180549	Fragilaria unipunctata Lyngb.	nomenclatural synonym	Striatella unipunctata (Lyngb.) C.Agardh
+https://id.biodiversity.org.au/instance/algae/20180559	Conferva flocculosa Roth	nomenclatural synonym	Tabellaria flocculosa (Roth) Kütz.
+https://id.biodiversity.org.au/instance/algae/20236499	Synedra nitzschioides Grunow	nomenclatural synonym	Thalassionema nitzschioides (Grunow) Mereschk.
+https://id.biodiversity.org.au/instance/algae/20236500	Thalassiothrix nitzschioides (Grunow) Grunow	nomenclatural synonym	Thalassionema nitzschioides (Grunow) Mereschk.
+https://id.biodiversity.org.au/instance/algae/20180742	Cerataulus reichardtii Grunow	nomenclatural synonym	Neohuttonia reichardtii (Grunow) Kuntze
+https://id.biodiversity.org.au/instance/algae/20178770	Huttoniella reichardtii (Grunow) Hust.	nomenclatural synonym	Neohuttonia reichardtii (Grunow) Kuntze
+https://id.biodiversity.org.au/instance/algae/20180733	Himantidium marinum W.Sm.	nomenclatural synonym	Eunotogramma marinum (W.Sm.) Grunow
+https://id.biodiversity.org.au/instance/algae/20218220	Chara plebeja A.Braun	taxonomic synonym	Chara australis R.Br.
+https://id.biodiversity.org.au/instance/algae/20233037	Mougeotia parvula var. angusta (Hassall) Kirchn.	nomenclatural synonym	Mougeotia angusta (Hassall) Czurda
+https://id.biodiversity.org.au/instance/algae/20225438	Coelastrum cambricum W.Archer	taxonomic synonym	Coelastrum pulchellum Schmidle
+https://id.biodiversity.org.au/instance/algae/20235814	Prasiola antarctica Kütz.	taxonomic synonym	Prasiola crispa (Lightf.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20235815	Prasiola crispa subsp. antarctica (Kütz.) Knebel	taxonomic synonym	Prasiola crispa (Lightf.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20236197	Gayella polyrhiza Rosenv.	nomenclatural synonym	Rosenvingiella polyrhiza (Rosenv.) P.C.Silva
+https://id.biodiversity.org.au/instance/algae/20130651	Vaucheria tuberosa A.Braun ex Kütz.	nomenclatural synonym	Dichotomosiphon tuberosus (A.Braun ex Kütz.) A.Ernst
+https://id.biodiversity.org.au/instance/algae/20046392	Microdictyon montagnei Harv. ex J.E.Gray	nomenclatural synonym	Boodlea montagnei (Harv. ex J.E.Gray) Egerod
+https://id.biodiversity.org.au/instance/algae/20045795	Boodlea paradoxa Reinbold	taxonomic synonym	Boodlea montagnei (Harv. ex J.E.Gray) Egerod
+https://id.biodiversity.org.au/instance/algae/20218279	Aegagropila membranacea (C.Agardh) Kütz.	nomenclatural synonym	Cladophoropsis membranacea (C.Agardh) Børgesen
+https://id.biodiversity.org.au/instance/algae/20218278	Conferva membranacea C.Agardh	nomenclatural synonym	Cladophoropsis membranacea (C.Agardh) Børgesen
+https://id.biodiversity.org.au/instance/algae/20218281	Siphonocladus membranacea (C.Agardh) Bornet	nomenclatural synonym	Cladophoropsis membranacea (C.Agardh) Børgesen
+https://id.biodiversity.org.au/instance/algae/20218280	Cladophora membranacea (C.Agardh) Kütz.	nomenclatural synonym	Cladophoropsis membranacea (C.Agardh) Børgesen
+https://id.biodiversity.org.au/instance/algae/20218282	Boodlea kaenana F.Brand	taxonomic synonym	Cladophoropsis membranacea (C.Agardh) Børgesen
+https://id.biodiversity.org.au/instance/algae/20218283	Boodlea trukensis Trono	taxonomic synonym	Cladophoropsis membranacea (C.Agardh) Børgesen
+https://id.biodiversity.org.au/instance/algae/20218284	Cladophoropsis gerloffii Nizam.	taxonomic synonym	Cladophoropsis membranacea (C.Agardh) Børgesen
+https://id.biodiversity.org.au/instance/algae/20236082	Chaetomorpha capillaris (Kütz.) Børgesen	taxonomic synonym	Chaetomorpha ligustica (Kütz.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20236083	Chaetomorpha tortuosa Kütz.	taxonomic synonym	Chaetomorpha ligustica (Kütz.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20236084	Lola capillaris (Dillwyn) Hamel	taxonomic synonym	Chaetomorpha ligustica (Kütz.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20236085	Rhizoclonium capillare Kütz.	taxonomic synonym	Chaetomorpha ligustica (Kütz.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20215966	Cladophora crispata (Roth) Kütz.	taxonomic synonym	Cladophora glomerata var. crassior (C.Agardh) Van Hoek
+https://id.biodiversity.org.au/instance/algae/20215981	Conferva flexuosa O.F.Müll.	nomenclatural synonym	Cladophora flexuosa (O.F.Müll.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20215982	Conferva gracilis A.W.Griffiths ex Harv.	taxonomic synonym	Cladophora flexuosa (O.F.Müll.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20215973	Conferva fracta O.F.Müll. ex Vahl	nomenclatural synonym	Cladophora fracta (O.F.Müll. ex Vahl) Kütz.
+https://id.biodiversity.org.au/instance/algae/20215974	Conferva fracta var. prolifera C.Agardh	taxonomic synonym	Cladophora fracta (O.F.Müll. ex Vahl) Kütz.
+https://id.biodiversity.org.au/instance/algae/20215975	Cladophora flavescens (Roth) Kütz.	taxonomic synonym	Cladophora fracta (O.F.Müll. ex Vahl) Kütz.
+https://id.biodiversity.org.au/instance/algae/20215986	Conferva glomerata L.	nomenclatural synonym	Cladophora glomerata (L.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20215992	Conferva sericea Huds.	nomenclatural synonym	Cladophora sericea (Huds.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20215993	Cladophora thoreana Kütz.	taxonomic synonym	Cladophora sericea (Huds.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20236111	Rhizoclonium africanum Kütz.	nomenclatural synonym	Pseudorhizoclonium africanum (Kütz.) C.Boed.
+https://id.biodiversity.org.au/instance/algae/20236112	Rhizoclonium hookeri Kütz.	taxonomic synonym	Pseudorhizoclonium africanum (Kütz.) C.Boed.
+https://id.biodiversity.org.au/instance/algae/20236096	Conferva hieroglyphica C.Agardh	nomenclatural synonym	Rhizoclonium hieroglyphicum (C.Agardh) Kütz.
+https://id.biodiversity.org.au/instance/algae/20236115	Rhizoclonium implexum (Dillwyn) Kütz.	taxonomic synonym	Rhizoclonium riparium (Roth) Harv.
+https://id.biodiversity.org.au/instance/algae/20236116	Rhizoclonium salinum Kütz.	taxonomic synonym	Rhizoclonium riparium (Roth) Harv.
+https://id.biodiversity.org.au/instance/algae/20236117	Conferva riparia Roth	nomenclatural synonym	Rhizoclonium riparium (Roth) Harv.
+https://id.biodiversity.org.au/instance/algae/20228123	Rhizoclonium pannosum (Aresch.) Kütz.	taxonomic synonym	Rhizoclonium riparium (Roth) Harv.
+https://id.biodiversity.org.au/instance/algae/20236644	Byssus cryptarum L.	taxonomic synonym	Trentepohlia aurea (L.) Mart.
+https://id.biodiversity.org.au/instance/algae/20217400	Ulva oxysperma Kütz.	nomenclatural synonym	Gayralia oxysperma (Kütz.) K.L.Vinogr.
+https://id.biodiversity.org.au/instance/algae/20217402	Ulvaria oxysperma (Kütz.) Bliding	nomenclatural synonym	Gayralia oxysperma (Kütz.) K.L.Vinogr.
+https://id.biodiversity.org.au/instance/algae/20217403	Monostroma oxyspermum (Kütz.) Doty	nomenclatural synonym	Gayralia oxysperma (Kütz.) K.L.Vinogr.
+https://id.biodiversity.org.au/instance/algae/20217406	Monostroma oxycoccum Thur.	taxonomic synonym	Gayralia oxysperma (Kütz.) K.L.Vinogr.
+https://id.biodiversity.org.au/instance/algae/20217772	Ulva oxycocca Kütz.	taxonomic synonym	Gayralia oxysperma (Kütz.) K.L.Vinogr.
+https://id.biodiversity.org.au/instance/algae/20216303	Enteromorpha nana (Sommerf.) G.Sjöstedt	taxonomic synonym	Blidingia minima (Nägeli ex Kütz.) Kylin
+https://id.biodiversity.org.au/instance/algae/20216304	Enteromorpha minima Nägeli ex Kütz.	nomenclatural synonym	Blidingia minima (Nägeli ex Kütz.) Kylin
+https://id.biodiversity.org.au/instance/algae/20216305	Ulva intestinalis var. nana Sommerf.	taxonomic synonym	Blidingia minima (Nägeli ex Kütz.) Kylin
+https://id.biodiversity.org.au/instance/algae/20217170	Enteromorpha clathrata (Roth) Grev.	nomenclatural synonym	Ulva clathrata (Roth) C.Agardh
+https://id.biodiversity.org.au/instance/algae/20217169	Conferva clathrata Roth	nomenclatural synonym	Ulva clathrata (Roth) C.Agardh
+https://id.biodiversity.org.au/instance/algae/20217171	Ulva muscoides Clemente	taxonomic synonym	Ulva clathrata (Roth) C.Agardh
+https://id.biodiversity.org.au/instance/algae/20217175	Enteromorpha ramulosa (Sm.) Carmich.	taxonomic synonym	Ulva clathrata (Roth) C.Agardh
+https://id.biodiversity.org.au/instance/algae/20217173	Enteromorpha muscoides (Clemente) Cremades	taxonomic synonym	Ulva clathrata (Roth) C.Agardh
+https://id.biodiversity.org.au/instance/algae/20217178	Enteromorpha crinita Nees	taxonomic synonym	Ulva clathrata (Roth) C.Agardh
+https://id.biodiversity.org.au/instance/algae/20217509	Conferva crinita Roth	taxonomic synonym	Ulva clathrata (Roth) C.Agardh
+https://id.biodiversity.org.au/instance/algae/20217191	Enteromorpha compressa (L.) Nees	nomenclatural synonym	Ulva compressa L.
+https://id.biodiversity.org.au/instance/algae/20217192	Enteromorpha chlorotica J.Agardh	taxonomic synonym	Ulva compressa L.
+https://id.biodiversity.org.au/instance/algae/20217197	Enteromorpha flexuosa (Wulfen) J.Agardh	nomenclatural synonym	Ulva flexuosa Wulfen
+https://id.biodiversity.org.au/instance/algae/20217198	Enteromorpha lingulata J.Agardh	taxonomic synonym	Ulva flexuosa Wulfen
+https://id.biodiversity.org.au/instance/algae/20217201	Enteromorpha intestinalis (L.) Nees	nomenclatural synonym	Ulva intestinalis L.
+https://id.biodiversity.org.au/instance/algae/20217207	Enteromorpha ralfsii Harv.	nomenclatural synonym	Ulva ralfsii (Harv.) Le Jol.
+https://id.biodiversity.org.au/instance/algae/20233833	Nodularia spumigena var. genuina Bornet & Flahault	taxonomic synonym	Nodularia spumigena Mert. ex Bornet & Flahault
+https://id.biodiversity.org.au/instance/algae/20216368	Conferva confervicola Dillwyn	nomenclatural synonym	Calothrix confervicola C.Agardh ex Bornet & Flahault
+https://id.biodiversity.org.au/instance/algae/20216391	Calothrix crustacea Thur. ex Bornet & Flahault	nomenclatural synonym	Scytonematopsis crustacea (Thuret ex Bornet & Flahault) Kováčik & Komárek
+https://id.biodiversity.org.au/instance/algae/20216332	Nostoc quoyi C.Agardh	nomenclatural synonym	Brachytrichia quoyi Bornet & Flahault
+https://id.biodiversity.org.au/instance/algae/20130021	Aphanothece subachroa Hansg.	taxonomic synonym	Aphanothece saxicola Nägeli
+https://id.biodiversity.org.au/instance/algae/20130930	Aphanothece prasina A.Braun	taxonomic synonym	Aphanothece stagnina (Spreng.) A.Braun
+https://id.biodiversity.org.au/instance/algae/20130982	Aphanothece tuberculata (Aresch.) Forti	taxonomic synonym	Aphanothece stagnina (Spreng.) A.Braun
+https://id.biodiversity.org.au/instance/algae/20131080	Coccochloris stagnina Spreng.	nomenclatural synonym	Aphanothece stagnina (Spreng.) A.Braun
+https://id.biodiversity.org.au/instance/algae/20130395	Aphanothece piscinalis Rabenh.	taxonomic synonym	Aphanothece stagnina (Spreng.) A.Braun
+https://id.biodiversity.org.au/instance/algae/20130639	Aphanothece mooreana (Harv.) Lagerh.	taxonomic synonym	Aphanothece stagnina (Spreng.) A.Braun
+https://id.biodiversity.org.au/instance/algae/20217214	Oxytoxum conferta Kütz.	nomenclatural synonym	Entophysalis conferta (Kütz.) F.E.Drouet & W.A.Daily
+https://id.biodiversity.org.au/instance/algae/20217234	Coccochloris deusta Menegh.	nomenclatural synonym	Entophysalis deusta (Menegh.) F.E.Drouet & W.A.Daily
+https://id.biodiversity.org.au/instance/algae/20217226	Chroococcus decorticans A.Braun	nomenclatural synonym	Gloeocapsa decorticans (A.Braun) Richter
+https://id.biodiversity.org.au/instance/algae/20130820	Anacystis cyanea (Kütz.) F.E.Drouet & W.A.Daily	taxonomic synonym	Microcystis aeruginosa (Kütz.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20131000	Clathrocystis aeruginosa var. major	taxonomic synonym	Microcystis aeruginosa (Kütz.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20131091	Diplocystis aeruginosa (Kütz.) Trevis.	nomenclatural synonym	Microcystis aeruginosa (Kütz.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20131116	Clathrocystis aeruginosa (Kütz.) Henfr.	nomenclatural synonym	Microcystis aeruginosa (Kütz.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20131145	Micraloa aeruginosa Kütz.	nomenclatural synonym	Microcystis aeruginosa (Kütz.) Kütz.
+https://id.biodiversity.org.au/instance/algae/20237467	Oscillatoria amphibia C.Agardh ex Gomont	nomenclatural synonym	Anagnostidinema amphibium (C.Agardh ex Gomont) Strunecký, Bohunická, J.R.Johans. & Komárek
+https://id.biodiversity.org.au/instance/algae/20237468	Phormidium amphibia (C.Agardh) Anagn. & Komárek	nomenclatural synonym	Anagnostidinema amphibium (C.Agardh ex Gomont) Strunecký, Bohunická, J.R.Johans. & Komárek
+https://id.biodiversity.org.au/instance/algae/20237469	Geitlerinema amphibium (C.Agardh) Anagn.	nomenclatural synonym	Anagnostidinema amphibium (C.Agardh ex Gomont) Strunecký, Bohunická, J.R.Johans. & Komárek
+https://id.biodiversity.org.au/instance/algae/20233059	Conferva chthonoplastes Mert.	nomenclatural synonym	Coleofasciculus chthonoplastes (Gomont) Siegesmund, J.R.Johans. & Friedl
+https://id.biodiversity.org.au/instance/algae/20233058	Microcoleus chthonoplastes Thur. ex Gomont	nomenclatural synonym	Coleofasciculus chthonoplastes (Gomont) Siegesmund, J.R.Johans. & Friedl
+https://id.biodiversity.org.au/instance/algae/20130389	Microcoleus lyngbyaceus (Kütz.) P.Crouan & H.Crouan	taxonomic synonym	Planktothrix planctonica (Elenkin) Anagn. & Komárek
+https://id.biodiversity.org.au/instance/algae/20236683	Oscillatoria erythraea (Ehrenb. ex Gomont) Geitler	nomenclatural synonym	Trichodesmium erythraeum Ehrenb. ex Gomont
+https://id.biodiversity.org.au/instance/algae/20216295	Hydrocoleum lyngbyaceum Kütz. ex Gomont	nomenclatural synonym	Blennothrix lyngbyacea (Kütz. ex Gomont) Anagn. & Komárek
+https://id.biodiversity.org.au/instance/algae/20237181	Porphyrosiphon luteus (Gomont) Anagn. & Komárek	nomenclatural synonym	Lyngbya lutea Gomont
+https://id.biodiversity.org.au/instance/algae/20130213	Spirulina oscillarioides Turpin	taxonomic synonym	Spirulina major Kütz. ex Gomont
+https://id.biodiversity.org.au/instance/algae/20235482	Phormidium molle Gomont	nomenclatural synonym	Phormidesmis mollis (Gomont) Turicchia, S.Ventura, Komárk.-Legn.& Komárek
+https://id.biodiversity.org.au/instance/algae/20234062	Palmella hyalina Lyngb.	nomenclatural synonym	Aphanocapsa hyalina (Lyngb.) Hansg.
+https://id.biodiversity.org.au/instance/algae/20239871	Gymnodinium coeruleum Dogiel	nomenclatural synonym	Balechina coerulea (Dogiel) F.J.R.Taylor
+https://id.biodiversity.org.au/instance/algae/20230828	Gymnodinium gracile Bergh	taxonomic synonym	Balechina gracilis (Bergh) F.Gómez, Artigas & Gast
+https://id.biodiversity.org.au/instance/algae/20230829	Gymnodinium achromaticum M.Lebour	taxonomic synonym	Balechina gracilis (Bergh) F.Gómez, Artigas & Gast
+https://id.biodiversity.org.au/instance/algae/20230830	Gymnodinium abbreviatum Kof. & Swezy	taxonomic synonym	Balechina gracilis (Bergh) F.Gómez, Artigas & Gast
+https://id.biodiversity.org.au/instance/algae/20230831	Amphidinium vasculum Kof. & Swezy	taxonomic synonym	Balechina gracilis (Bergh) F.Gómez, Artigas & Gast
+https://id.biodiversity.org.au/instance/algae/20230832	Gymnodinium amphora Kof. & Swezy	taxonomic synonym	Balechina gracilis (Bergh) F.Gómez, Artigas & Gast
+https://id.biodiversity.org.au/instance/algae/20230833	Gymnodinium situla Kof. & Swezy	taxonomic synonym	Balechina gracilis (Bergh) F.Gómez, Artigas & Gast
+https://id.biodiversity.org.au/instance/algae/20230837	Balechina pachydermata (Kof. & Swezy) Loebl. & A.R.Loebl.	taxonomic synonym	Balechina gracilis (Bergh) F.Gómez, Artigas & Gast
+https://id.biodiversity.org.au/instance/algae/20216153	Dinophysis ellipsoides Kof.	taxonomic synonym	Dinophysis acuminata Clap. & J.Lachm.
+https://id.biodiversity.org.au/instance/algae/20217477	Dinophysis skagii Paulsen	taxonomic synonym	Dinophysis acuminata Clap. & J.Lachm.
+https://id.biodiversity.org.au/instance/algae/20216159	Dinophysis dens Pavill.	taxonomic synonym	Dinophysis acuta Ehrenb.
+https://id.biodiversity.org.au/instance/algae/20178864	Phalacroma ovum F.Schütt	taxonomic synonym	Dinophysis amandula Sournia
+https://id.biodiversity.org.au/instance/algae/20235738	Phalacroma apicatum Kof. & Skogsb.	nomenclatural synonym	Dinophysis apicata (Kof. & Skogsb.) T.H.Abé
+https://id.biodiversity.org.au/instance/algae/20235380	Phalacroma argus F.Stein	nomenclatural synonym	Dinophysis argus (F.Stein) T.H.Abé
+https://id.biodiversity.org.au/instance/algae/20216164	Dinophysis diegensis Kof.	taxonomic synonym	Dinophysis caudata Kent
+https://id.biodiversity.org.au/instance/algae/20216165	Dinophysis homunculus F.Stein	taxonomic synonym	Dinophysis caudata Kent
+https://id.biodiversity.org.au/instance/algae/20217479	Phalacroma contractum Kof. & Skogsb.	nomenclatural synonym	Dinophysis contracta (Kof. & Skogsb.) Balech
+https://id.biodiversity.org.au/instance/algae/20217480	Prodinophysis contracta (Kof. & Skogsb.) Balech	nomenclatural synonym	Dinophysis contracta (Kof. & Skogsb.) Balech
+https://id.biodiversity.org.au/instance/algae/20180867	Phalacroma elongatum Jørg.	nomenclatural synonym	Dinophysis elongata (Jørg.) T.H.Abé
+https://id.biodiversity.org.au/instance/algae/20229793	Dinophysis intermedia Pavill.	taxonomic synonym	Dinophysis fortii Pavill.
+https://id.biodiversity.org.au/instance/algae/20180868	Phalacroma irregulare M.Lebour	nomenclatural synonym	Dinophysis irregularis (M.Lebour) Balech
+https://id.biodiversity.org.au/instance/algae/20216185	Heteroceras schroeteri Forti	taxonomic synonym	Dinophysis miles Cleve
+https://id.biodiversity.org.au/instance/algae/20235418	Phalacroma nasutum F.Stein	nomenclatural synonym	Dinophysis nasutum (F.Stein) Parke & P.S.Dixon
+https://id.biodiversity.org.au/instance/algae/20235419	Pseudophalacroma nasutum (F.Stein) Jørg.	nomenclatural synonym	Dinophysis nasutum (F.Stein) Parke & P.S.Dixon
+https://id.biodiversity.org.au/instance/algae/20235426	Phalacroma operculatum F.Stein	nomenclatural synonym	Dinophysis operculata (F.Stein) Balech
+https://id.biodiversity.org.au/instance/algae/20236867	Phalacroma operculoides F.Schütt	taxonomic synonym	Dinophysis operculoides (F.Schütt) Balech
+https://id.biodiversity.org.au/instance/algae/20229807	Dinophysis brevisulcus L.S.Tai & Skogsb.	taxonomic synonym	Dinophysis ovum F.Schütt
+https://id.biodiversity.org.au/instance/algae/20229812	Phalacroma porodictyum var. parvula F.Schütt	nomenclatural synonym	Dinophysis parvula (F.Schütt) Balech
+https://id.biodiversity.org.au/instance/algae/20229813	Phalacroma parvulum (F.Schütt) Jørg.	nomenclatural synonym	Dinophysis parvula (F.Schütt) Balech
+https://id.biodiversity.org.au/instance/algae/20229818	Prodinophysis pulchella (M.Lebour) Balech	nomenclatural synonym	Dinophysis pulchella (M.Lebour) Balech
+https://id.biodiversity.org.au/instance/algae/20216257	Dinophysis pavillardii Schröd.	taxonomic synonym	Dinophysis sacculus F.Stein
+https://id.biodiversity.org.au/instance/algae/20216258	Dinophysis ventrecta J.Schiller	taxonomic synonym	Dinophysis sacculus F.Stein
+https://id.biodiversity.org.au/instance/algae/20217499	Dinophysis reniformis Kof. & Skogsb.	taxonomic synonym	Dinophysis sacculus F.Stein
+https://id.biodiversity.org.au/instance/algae/20180588	Phalacroma sphaeroideum J.Schiller	nomenclatural synonym	Dinophysis sphaeroidea (J.Schiller) Balech
+https://id.biodiversity.org.au/instance/algae/20229925	Phalacroma thompsonii E.J.F.Wood	nomenclatural synonym	Dinophysis thompsonii (E.J.F.Wood) Balech
+https://id.biodiversity.org.au/instance/algae/20229926	Prodinophysis thompsonii (E.J.F.Wood) A.R.Loebl.	nomenclatural synonym	Dinophysis thompsonii (E.J.F.Wood) Balech
+https://id.biodiversity.org.au/instance/algae/20235774	Phalacroma triangulare E.J.F.Wood	nomenclatural synonym	Dinophysis triangulare (E.J.F.Wood) Balech
+https://id.biodiversity.org.au/instance/algae/20216268	Dinophysis caudata var. tripos (Gourret) G.I.Gail	nomenclatural synonym	Dinophysis tripos Gourret
+https://id.biodiversity.org.au/instance/algae/20232196	Parahistioneis crateriformis (F.Stein) Kof. & Skogsb.	nomenclatural synonym	Histioneis crateriformis F.Stein
+https://id.biodiversity.org.au/instance/algae/20178893	Histioneis dolon G.Murray & Whitting	taxonomic synonym	Histioneis megalocopa F.Stein
+https://id.biodiversity.org.au/instance/algae/20178894	Histioneis helenae G.Murray & Whitting	taxonomic synonym	Histioneis milneri G.Murray & Whitting
+https://id.biodiversity.org.au/instance/algae/20178895	Histioneis hippoperoides Kof. & J.R.Michener	taxonomic synonym	Histioneis milneri G.Murray & Whitting
+https://id.biodiversity.org.au/instance/algae/20179660	Parahistioneis rotundata (Kof. & J.R.Michener) Kof. & Skogsb.	nomenclatural synonym	Histioneis rotundata Kof. & J.R.Michener
+https://id.biodiversity.org.au/instance/algae/20178903	Ornithocercus biclavatus E.J.F.Wood	taxonomic synonym	Ornithocercus heteroporus Kof.
+https://id.biodiversity.org.au/instance/algae/20178902	Ornithocercus triclavatus E.J.F.Wood	taxonomic synonym	Ornithocercus heteroporus Kof.
+https://id.biodiversity.org.au/instance/algae/20237057	Ornithocercus minor Jørg. MS	taxonomic synonym	Ornithocercus magnificus F.Stein
+https://id.biodiversity.org.au/instance/algae/20233919	Histioneis quadrata (F.Schütt) Lemmerm.	nomenclatural synonym	Ornithocercus quadratus F.Schütt
+https://id.biodiversity.org.au/instance/algae/20233926	Histioneis splendida (F.Schütt) G.Murray & Whitting	nomenclatural synonym	Ornithocercus splendidus F.Schütt
+https://id.biodiversity.org.au/instance/algae/20233932	Histioneis steinii (F.Schütt) Lemmerm.	nomenclatural synonym	Ornithocercus steinii F.Schütt
+https://id.biodiversity.org.au/instance/algae/20233931	Ornithocercus serratus Kof.	taxonomic synonym	Ornithocercus steinii F.Schütt
+https://id.biodiversity.org.au/instance/algae/20180592	Histioneis reticulata Kof.	nomenclatural synonym	Parahistioneis reticulata (Kof.) Kof. & Skogsb.
+https://id.biodiversity.org.au/instance/algae/20180597	Phalacroma vastum var. acuta F.Schütt	nomenclatural synonym	Phalacroma acutum (F.Schütt) Pavill.
+https://id.biodiversity.org.au/instance/algae/20216200	Dinophysis alata (E.J.F.Wood) Balech	nomenclatural synonym	Phalacroma alatum E.J.F.Wood
+https://id.biodiversity.org.au/instance/algae/20235406	Dinophysis cuneus (F.Schütt) T.H.Abé	nomenclatural synonym	Phalacroma cuneus F.Schütt
+https://id.biodiversity.org.au/instance/algae/20235408	Prodinophysis doryphora (F.Stein) Balech	nomenclatural synonym	Phalacroma doryphorum F.Stein
+https://id.biodiversity.org.au/instance/algae/20235409	Dinophysis doryphora (F.Stein) T.H.Abé	nomenclatural synonym	Phalacroma doryphorum F.Stein
+https://id.biodiversity.org.au/instance/algae/20180599	Dinophysis expulsa Kof. & J.R.Michener	nomenclatural synonym	Phalacroma expulsum (Kof. & J.R.Michener) Kof. & Skogsb.
+https://id.biodiversity.org.au/instance/algae/20178914	Dinophysis jibbonensis (E.J.F.Wood) Balech	nomenclatural synonym	Phalacroma jibbonense E.J.F.Wood
+https://id.biodiversity.org.au/instance/algae/20180205	Prodinophysis jibbonensis (E.J.F.Wood) A.R.Loebl.	nomenclatural synonym	Phalacroma jibbonense E.J.F.Wood
+https://id.biodiversity.org.au/instance/algae/20235435	Dinophysis rapa (F.Stein) T.H.Abé	nomenclatural synonym	Phalacroma rapa F.Stein
+https://id.biodiversity.org.au/instance/algae/20216248	Dinophysis rotundata Clap. & J.Lachm.	nomenclatural synonym	Phalacroma rotundatum (Clap. & J.Lachm.) Kof. & J.R.Michener
+https://id.biodiversity.org.au/instance/algae/20216249	Dinophysis whittingae Balech	taxonomic synonym	Phalacroma rotundatum (Clap. & J.Lachm.) Kof. & J.R.Michener
+https://id.biodiversity.org.au/instance/algae/20217498	Prodinophysis rotundata (Clap. & J.Lachm.) Balech	nomenclatural synonym	Phalacroma rotundatum (Clap. & J.Lachm.) Kof. & J.R.Michener
+https://id.biodiversity.org.au/instance/algae/20235441	Dinophysis whiteleggei (E.J.F.Wood) Balech	nomenclatural synonym	Phalacroma whiteleggei E.J.F.Wood
+https://id.biodiversity.org.au/instance/algae/20230867	Gymnodinium agile Kof. & Swezy	nomenclatural synonym	Durinskia agilis (Kof. & Swezy) Saburova, Chomérat & Hoppenrath
+https://id.biodiversity.org.au/instance/algae/20217787	Glenodinium oculatum F.Stein	nomenclatural synonym	Durinskia oculata (F.Stein) Gert Hansen & G.Flaim
+https://id.biodiversity.org.au/instance/algae/20217788	Peridiniopsis oculata (F.Stein) Bourr.	nomenclatural synonym	Durinskia oculata (F.Stein) Gert Hansen & G.Flaim
+https://id.biodiversity.org.au/instance/algae/20217428	Glenodinium foliaceum F.Stein	nomenclatural synonym	Kryptoperidinium foliaceum (F.Stein) Er.Lindem.
+https://id.biodiversity.org.au/instance/algae/20217429	Peridinium foliaceum (F.Stein) Biecheler	nomenclatural synonym	Kryptoperidinium foliaceum (F.Stein) Er.Lindem.
+https://id.biodiversity.org.au/instance/algae/20232097	Glenodinium triquetrum Ehrenb.	nomenclatural synonym	Kryptoperidinium triquetrum (Ehrenb.) Tillmann, Gottschling, Elbr., Kusber & Hoppenrath
+https://id.biodiversity.org.au/instance/algae/20232098	Heterocapsa triquetra (Ehrenb.) F.Stein	nomenclatural synonym	Kryptoperidinium triquetrum (Ehrenb.) Tillmann, Gottschling, Elbr., Kusber & Hoppenrath
+https://id.biodiversity.org.au/instance/algae/20232099	Peridinium triquetrum (Ehrenb.) M.Lebour	nomenclatural synonym	Kryptoperidinium triquetrum (Ehrenb.) Tillmann, Gottschling, Elbr., Kusber & Hoppenrath
+https://id.biodiversity.org.au/instance/algae/20231199	Gymnodinium fusus F.Schütt	nomenclatural synonym	Pseliodinium fusus (F.Schütt) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20231200	Gyrodinium falcatum Kof. & Swezy	taxonomic synonym	Pseliodinium fusus (F.Schütt) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20231225	Gymnodinium helix C.H.G.Pouchet	nomenclatural synonym	Torquentidium helix (Lemmerm.) H.H.Shin, Zhun Li, K-Woo Lee & Matsuoka
+https://id.biodiversity.org.au/instance/algae/20231228	Cochlodinium helicoides M.Lebour	taxonomic synonym	Torquentidium helix (Lemmerm.) H.H.Shin, Zhun Li, K-Woo Lee & Matsuoka
+https://id.biodiversity.org.au/instance/algae/20231227	Cochlodinium helix (C.H.G.Pouchet) Lemmerm.	nomenclatural synonym	Torquentidium helix (Lemmerm.) H.H.Shin, Zhun Li, K-Woo Lee & Matsuoka
+https://id.biodiversity.org.au/instance/algae/20232081	Gyrodinium uncatenum Hulburt	taxonomic synonym	Levanderina fissa (Levander) Moestrup, Hakanen, Gert Hansen, Daugbjerg & M.Ellegaard
+https://id.biodiversity.org.au/instance/algae/20232082	Gymnodinium fissum Levander	nomenclatural synonym	Levanderina fissa (Levander) Moestrup, Hakanen, Gert Hansen, Daugbjerg & M.Ellegaard
+https://id.biodiversity.org.au/instance/algae/20232084	Gyrodinium pavillardii Biecheler	taxonomic synonym	Levanderina fissa (Levander) Moestrup, Hakanen, Gert Hansen, Daugbjerg & M.Ellegaard
+https://id.biodiversity.org.au/instance/algae/20232086	Gyrodinium fissum (Levander) Kof. & Swezy	nomenclatural synonym	Levanderina fissa (Levander) Moestrup, Hakanen, Gert Hansen, Daugbjerg & M.Ellegaard
+https://id.biodiversity.org.au/instance/algae/20232085	Gymnodinium uncatenum (Hulburt) Hallegr.	taxonomic synonym	Levanderina fissa (Levander) Moestrup, Hakanen, Gert Hansen, Daugbjerg & M.Ellegaard
+https://id.biodiversity.org.au/instance/algae/20179151	Gymnodinium splendens M.Lebour	taxonomic synonym	Akashiwo sanguinea (Hirasaka) Gert Hansen & Moestrup
+https://id.biodiversity.org.au/instance/algae/20179152	Gymnodinium nelsonii G.W.Martin	taxonomic synonym	Akashiwo sanguinea (Hirasaka) Gert Hansen & Moestrup
+https://id.biodiversity.org.au/instance/algae/20180677	Gymnodinium sanguineum Hirasaka	nomenclatural synonym	Akashiwo sanguinea (Hirasaka) Gert Hansen & Moestrup
+https://id.biodiversity.org.au/instance/algae/20179154	Amphidinium microcephalum R.E.Norris	taxonomic synonym	Amphidinium carterae Hulburt
+https://id.biodiversity.org.au/instance/algae/20216691	Amphidinium elegans K.G.Grell & Wohlf.-Botterm.	taxonomic synonym	Amphidinium operculatum Clap. & J.Lachm.
+https://id.biodiversity.org.au/instance/algae/20179162	Amphidinium wislouchii Hulburt	taxonomic synonym	Amphidinium steinii (Lemmerm.) Kof. & Swezy
+https://id.biodiversity.org.au/instance/algae/20180679	Gymnodinium archimedis C.H.G.Pouchet	nomenclatural synonym	Cochlodinium archimedes (C.H.G.Pouchet) Lemmerm.
+https://id.biodiversity.org.au/instance/algae/20231123	Gyrodinium aureolum Hulburt	nomenclatural synonym	Gymnodinium aureolum (Hulburt) Gert Hansen
+https://id.biodiversity.org.au/instance/algae/20231124	Karenia aureolum (Hulburt) S.Y.Cho, J.S.Ki & M.S.Han	nomenclatural synonym	Gymnodinium aureolum (Hulburt) Gert Hansen
+https://id.biodiversity.org.au/instance/algae/20180684	Katodinium dorsalisulcum Hulburt, J.A.McLaughlin & Zahl	nomenclatural synonym	Gymnodinium dorsalisulcum (Hulburt, J.A.McLaughlin & Zahl) Sh.Murray, M.Salas & Hallegr.
+https://id.biodiversity.org.au/instance/algae/20231142	Peridinium fuscum Ehrenb.	nomenclatural synonym	Gymnodinium fuscum (Ehrenb.) F.Stein
+https://id.biodiversity.org.au/instance/algae/20231320	Peridinium uberrimum G.J.Allman	nomenclatural synonym	Gymnodinium uberrimum (G.J.Allman) Kof. & Swezy
+https://id.biodiversity.org.au/instance/algae/20231321	Gyrodinium traunsteineri Er.Lindem.	taxonomic synonym	Gymnodinium uberrimum (G.J.Allman) Kof. & Swezy
+https://id.biodiversity.org.au/instance/algae/20231235	Gymnodinium heterostriatum Kof. & Swezy	nomenclatural synonym	Gyrodinium heterostriatum (Kof. & Swezy) F.Gómez, Artigas & Gast
+https://id.biodiversity.org.au/instance/algae/20180812	Spirodinium lachryma Meunier	nomenclatural synonym	Gyrodinium lachryma (Meunier) Kof. & Swezy
+https://id.biodiversity.org.au/instance/algae/20180815	Gymnodinium ovatum Gourret	nomenclatural synonym	Gyrodinium ovatum (Gourret) Kof. & Swezy
+https://id.biodiversity.org.au/instance/algae/20180816	Gymnodinium spirale var. pepo F.Schütt	nomenclatural synonym	Gyrodinium pepo (F.Schütt) Kof. & Swezy
+https://id.biodiversity.org.au/instance/algae/20180817	Gymnodinium spirale var. pingue F.Schütt	nomenclatural synonym	Gyrodinium pingue (F.Schütt) Kof. & Swezy
+https://id.biodiversity.org.au/instance/algae/20231313	Gymnodinium spirale Bergh	nomenclatural synonym	Gyrodinium spirale (Bergh) Kof. & Swezy
+https://id.biodiversity.org.au/instance/algae/20231314	Spirodinium spirale (Bergh) F.Schütt	nomenclatural synonym	Gyrodinium spirale (Bergh) Kof. & Swezy
+https://id.biodiversity.org.au/instance/algae/20180823	Gymnodinium chlorophorum Elbr. & Schnepf	nomenclatural synonym	Lepidodinium chlorophorum (Elbr. & Schnepf) Gert Hansen, Botes & de Salas
+https://id.biodiversity.org.au/instance/algae/20230858	Gymnodinium aeruginosum F.Stein	nomenclatural synonym	Nusuttodinium aeruginosum (F.Stein) Y.Takano & T.Horiguchi
+https://id.biodiversity.org.au/instance/algae/20231211	Gymnodinium geminatum F.Schütt	nomenclatural synonym	Polykrikos geminatus (F.Schütt) D.X.Qiu & Senjie Lin
+https://id.biodiversity.org.au/instance/algae/20231212	Cochlodinium geminatum (F.Schütt) F.Schütt	nomenclatural synonym	Polykrikos geminatus (F.Schütt) D.X.Qiu & Senjie Lin
+https://id.biodiversity.org.au/instance/algae/20231391	Gyrodinium calyptroglyphe M.Lebour	nomenclatural synonym	Sclerodinium calyptroglyphe (M.Lebour) J.D.Dodge
+https://id.biodiversity.org.au/instance/algae/20179204	Gymnodinium nagasakiense H.Takay. & M.Adachi	taxonomic synonym	Karenia mikimotoi (Miyake & Komin. ex M.Oda) Gert Hansen & Moestrup
+https://id.biodiversity.org.au/instance/algae/20180824	Gymnodinium mikimotoi Miyake & Komin. ex M.Oda	nomenclatural synonym	Karenia mikimotoi (Miyake & Komin. ex M.Oda) Gert Hansen & Moestrup
+https://id.biodiversity.org.au/instance/algae/20231153	Woloszynskia micra B.Leadb. & J.D.Dodge	taxonomic synonym	Karlodinium veneficum (D.Ballant.) J.Larsen
+https://id.biodiversity.org.au/instance/algae/20231154	Karlodinium micrum (B.Leadb. & J.D.Dodge) J.Larsen	taxonomic synonym	Karlodinium veneficum (D.Ballant.) J.Larsen
+https://id.biodiversity.org.au/instance/algae/20231155	Gymnodinium veneficum D.Ballant.	nomenclatural synonym	Karlodinium veneficum (D.Ballant.) J.Larsen
+https://id.biodiversity.org.au/instance/algae/20231156	Gymnodinium micrum (B.Leadb. & J.D.Dodge) A.R.Loebl.	taxonomic synonym	Karlodinium veneficum (D.Ballant.) J.Larsen
+https://id.biodiversity.org.au/instance/algae/20231157	Gymnodinium galatheanum Braarud	taxonomic synonym	Karlodinium veneficum (D.Ballant.) J.Larsen
+https://id.biodiversity.org.au/instance/algae/20180832	Pouchetia armata Dogiel	nomenclatural synonym	Nematodinium armatum (Dogiel) Kof. & Swezy
+https://id.biodiversity.org.au/instance/algae/20231648	Gymnodinium polyphemus var. roseum C.H.G.Pouchet	nomenclatural synonym	Warnowia rosea (C.H.G.Pouchet) J.Schiller
+https://id.biodiversity.org.au/instance/algae/20231649	Pouchetia rosea F.Schütt	nomenclatural synonym	Warnowia rosea (C.H.G.Pouchet) J.Schiller
+https://id.biodiversity.org.au/instance/algae/20234075	Dissodium asymmetricum (L.Mangin) A.R.Loebl.	nomenclatural synonym	Diplopelta asymmetrica (L.Mangin) M.Lebour ex Balech
+https://id.biodiversity.org.au/instance/algae/20234077	Glenodinium lenticula f. asymmetrica (L.Mangin) J.Schiller	nomenclatural synonym	Diplopelta asymmetrica (L.Mangin) M.Lebour ex Balech
+https://id.biodiversity.org.au/instance/algae/20234076	Peridinium lenticula (Bergh) Paulsen	taxonomic synonym	Diplopelta asymmetrica (L.Mangin) M.Lebour ex Balech
+https://id.biodiversity.org.au/instance/algae/20229993	Dissodium lenticula (Bergh) A.R.Loebl.	nomenclatural synonym	Diplopsalis lenticula Bergh
+https://id.biodiversity.org.au/instance/algae/20229994	Glenodinium lenticula C.H.G.Pouchet	taxonomic synonym	Diplopsalis lenticula Bergh
+https://id.biodiversity.org.au/instance/algae/20179543	Peridiniopsis rotunda M.Lebour	nomenclatural synonym	Oblea rotunda (M.Lebour) Balech ex Sournia
+https://id.biodiversity.org.au/instance/algae/20179651	Diplopsalis rotundata (M.Lebour) E.J.F.Wood	nomenclatural synonym	Oblea rotunda (M.Lebour) Balech ex Sournia
+https://id.biodiversity.org.au/instance/algae/20179652	Glenodinium rotundum (M.Lebour) J.Schiller	nomenclatural synonym	Oblea rotunda (M.Lebour) Balech ex Sournia
+https://id.biodiversity.org.au/instance/algae/20230001	Zygabikodinium lenticulatum Loebl. & A.R.Loebl.	taxonomic synonym	Preperidinium meunieri (Pavill.) Elbr.
+https://id.biodiversity.org.au/instance/algae/20236702	Peridinium lenticulatum L.Mangin	taxonomic synonym	Preperidinium meunieri (Pavill.) Elbr.
+https://id.biodiversity.org.au/instance/algae/20229999	Diplopsalis lenticula f. minor Paulsen	taxonomic synonym	Preperidinium meunieri (Pavill.) Elbr.
+https://id.biodiversity.org.au/instance/algae/20230003	Diplopeltopsis minor Pavill.	taxonomic synonym	Preperidinium meunieri (Pavill.) Elbr.
+https://id.biodiversity.org.au/instance/algae/20230002	Peridinium meunieri Pavill.	nomenclatural synonym	Preperidinium meunieri (Pavill.) Elbr.
+https://id.biodiversity.org.au/instance/algae/20236259	Sphaerodinium cinctum (Ehrenb.) Wolosz.	taxonomic synonym	Glenodiniopsis steinii Wolosz.
+https://id.biodiversity.org.au/instance/algae/20180845	Cachonina niei A.R.Loebl.	nomenclatural synonym	Heterocapsa niei (A.R.Loebl.) L.C.Morrill & A.R.Loebl.
+https://id.biodiversity.org.au/instance/algae/20216694	Massartia rotundata (Lohmann) J.Schiller	nomenclatural synonym	Heterocapsa rotundata (Lohmann) G.I.Hansen
+https://id.biodiversity.org.au/instance/algae/20216693	Amphidinium rotundatum Lohmann	nomenclatural synonym	Heterocapsa rotundata (Lohmann) G.I.Hansen
+https://id.biodiversity.org.au/instance/algae/20232089	Amphidinium pellucidum Herdman	taxonomic synonym	Heterocapsa rotundata (Lohmann) G.I.Hansen
+https://id.biodiversity.org.au/instance/algae/20217578	Katodinium rotundatum (Lohmann) A.R.Loebl.	nomenclatural synonym	Heterocapsa rotundata (Lohmann) G.I.Hansen
+https://id.biodiversity.org.au/instance/algae/20233993	Pyrgidium sceptrum F.Stein	nomenclatural synonym	Oxytoxum sceptrum (F.Stein) Schröd.
+https://id.biodiversity.org.au/instance/algae/20234493	Peridinium tabulatum Ehrenb.	taxonomic synonym	Peridinium bipes F.Stein
+https://id.biodiversity.org.au/instance/algae/20236265	Vorticella cincta O.F.Müll.	nomenclatural synonym	Peridinium cinctum (O.F.Müll.) Ehrenb.
+https://id.biodiversity.org.au/instance/algae/20235338	Peridinium tabulatum var. westii (Lemmerm.) Playfair	nomenclatural synonym	Peridinium cinctum f. westii (Lemmerm.) Er.Lindem.
+https://id.biodiversity.org.au/instance/algae/20235339	Peridinium westii Lemmerm.	nomenclatural synonym	Peridinium cinctum f. westii (Lemmerm.) Er.Lindem.
+https://id.biodiversity.org.au/instance/algae/20235063	Peridinium cinctum var. gibbosum M.Lefèvre	taxonomic synonym	Peridinium gatunense Nygaard
+https://id.biodiversity.org.au/instance/algae/20235064	Peridinium tabulatum var. zonatum Playfair	taxonomic synonym	Peridinium gatunense Nygaard
+https://id.biodiversity.org.au/instance/algae/20236880	Peridinium volzii f. maeandricum Lauterborn	nomenclatural synonym	Peridinium volzii var. maeandricum (Lauterborn) Moestrup & Calado
+https://id.biodiversity.org.au/instance/algae/20235324	Peridinium tabulatum f. australe Playfair	taxonomic synonym	Peridinium volzii var. maeandricum (Lauterborn) Moestrup & Calado
+https://id.biodiversity.org.au/instance/algae/20235325	Peridinium hieroglyphicum var. ovatum Playfair	taxonomic synonym	Peridinium volzii var. maeandricum (Lauterborn) Moestrup & Calado
+https://id.biodiversity.org.au/instance/algae/20235312	Peridinium striolatum f. rugosum (Playfair) M.Lefèvre	nomenclatural synonym	Peridinium striolatum var. rugosum Playfair
+https://id.biodiversity.org.au/instance/algae/20235316	Peridinium striolatum f. truncatum (Playfair) M.Lefèvre	nomenclatural synonym	Peridinium striolatum var. truncatum Playfair
+https://id.biodiversity.org.au/instance/algae/20235360	Peridinium volzii var. australe G.S.West	taxonomic synonym	Peridinium volzii Lemmerm.
+https://id.biodiversity.org.au/instance/algae/20235359	Peridinium guestrowiense Er.Lindem.	taxonomic synonym	Peridinium volzii Lemmerm.
+https://id.biodiversity.org.au/instance/algae/20179609	Peridinium willei var. botanicum Playfair	nomenclatural synonym	Peridinium volzii var. botanicum (Playfair) Er.Lindem.
+https://id.biodiversity.org.au/instance/algae/20235070	Peridinium gatunense var. zonatum (Playfair) M.Lefèvre	nomenclatural synonym	Peridinium zonatum (Playfair) Playfair
+https://id.biodiversity.org.au/instance/algae/20180850	Oxytoxum diploconus F.Stein	nomenclatural synonym	Corythodinium diploconus (F.Stein) F.J.R.Taylor
+https://id.biodiversity.org.au/instance/algae/20234643	Peridinium africanum var. contactum Er.Lindem.	taxonomic synonym	Parvodinium africanum (Lemmerm.) Carty
+https://id.biodiversity.org.au/instance/algae/20234645	Peridinium intermedium (Playfair) Playfair	taxonomic synonym	Parvodinium africanum (Lemmerm.) Carty
+https://id.biodiversity.org.au/instance/algae/20234644	Peridinium africanum var. intermedium (Playfair) M.Lefèvre	taxonomic synonym	Parvodinium africanum (Lemmerm.) Carty
+https://id.biodiversity.org.au/instance/algae/20234646	Peridinium intermedium var. conicum Playfair	taxonomic synonym	Parvodinium africanum (Lemmerm.) Carty
+https://id.biodiversity.org.au/instance/algae/20234642	Peridinium africanum Lemmerm.	nomenclatural synonym	Parvodinium africanum (Lemmerm.) Carty
+https://id.biodiversity.org.au/instance/algae/20234647	Peridinium tabulatum var. africanum (Lemmerm.) Playfair	nomenclatural synonym	Parvodinium africanum (Lemmerm.) Carty
+https://id.biodiversity.org.au/instance/algae/20234648	Peridinium tabulatum var. intermedium Playfair	taxonomic synonym	Parvodinium africanum (Lemmerm.) Carty
+https://id.biodiversity.org.au/instance/algae/20235274	Peridinium umbonatum var. centenniale Playfair	nomenclatural synonym	Parvodinium centenniale (Playfair) Carty
+https://id.biodiversity.org.au/instance/algae/20235276	Peridinium umbonatum var. globosum M.Lefèvre	taxonomic synonym	Parvodinium centenniale (Playfair) Carty
+https://id.biodiversity.org.au/instance/algae/20235275	Peridinium centenniale (Playfair) Er.Lindem.	nomenclatural synonym	Parvodinium centenniale (Playfair) Carty
+https://id.biodiversity.org.au/instance/algae/20235351	Peridinium centenniale var. fistulatum Er.Lindem.	taxonomic synonym	Parvodinium centenniale (Playfair) Carty
+https://id.biodiversity.org.au/instance/algae/20234675	Peridinium munusculum var. contactum Er.Lindem.	taxonomic synonym	Parvodinium inconspicuum (Lemmerm.) Carty
+https://id.biodiversity.org.au/instance/algae/20234674	Peridinium munusculum Er.Lindem.	taxonomic synonym	Parvodinium inconspicuum (Lemmerm.) Carty
+https://id.biodiversity.org.au/instance/algae/20234665	Peridinium inconspicuum Lemmerm.	nomenclatural synonym	Parvodinium inconspicuum (Lemmerm.) Carty
+https://id.biodiversity.org.au/instance/algae/20234668	Peridinium geminum var. angulosum Playfair	taxonomic synonym	Parvodinium inconspicuum (Lemmerm.) Carty
+https://id.biodiversity.org.au/instance/algae/20234673	Peridinium marchicum var. keyense Nygaard	taxonomic synonym	Parvodinium inconspicuum (Lemmerm.) Carty
+https://id.biodiversity.org.au/instance/algae/20234669	Peridinium geminum var. excavatum Playfair	taxonomic synonym	Parvodinium inconspicuum (Lemmerm.) Carty
+https://id.biodiversity.org.au/instance/algae/20234666	Peridinium caudatum (Playfair) Playfair	taxonomic synonym	Parvodinium inconspicuum (Lemmerm.) Carty
+https://id.biodiversity.org.au/instance/algae/20234670	Peridinium inconspicuum var. balatonicum Entz	taxonomic synonym	Parvodinium inconspicuum (Lemmerm.) Carty
+https://id.biodiversity.org.au/instance/algae/20234671	Peridinium inconspicuum f. marchicum (Lemmerm.) Er.Lindem.	taxonomic synonym	Parvodinium inconspicuum (Lemmerm.) Carty
+https://id.biodiversity.org.au/instance/algae/20234672	Peridinium javanicum C.Bernard	taxonomic synonym	Parvodinium inconspicuum (Lemmerm.) Carty
+https://id.biodiversity.org.au/instance/algae/20234667	Peridinium caudatum var. morsum (Playfair) Playfair	taxonomic synonym	Parvodinium inconspicuum (Lemmerm.) Carty
+https://id.biodiversity.org.au/instance/algae/20234677	Peridinium steinmanni Wolosz.	taxonomic synonym	Parvodinium inconspicuum (Lemmerm.) Carty
+https://id.biodiversity.org.au/instance/algae/20234676	Peridinium munusculum f. spiniferum Er.Lindem.	taxonomic synonym	Parvodinium inconspicuum (Lemmerm.) Carty
+https://id.biodiversity.org.au/instance/algae/20234678	Peridinium tabulatum var. caudatum Playfair	taxonomic synonym	Parvodinium inconspicuum (Lemmerm.) Carty
+https://id.biodiversity.org.au/instance/algae/20234679	Peridinium tabulatum var. inconspicuum (Lemmerm.) Playfair	nomenclatural synonym	Parvodinium inconspicuum (Lemmerm.) Carty
+https://id.biodiversity.org.au/instance/algae/20235329	Peridinium tabulatum f. morsum Playfair	taxonomic synonym	Parvodinium inconspicuum (Lemmerm.) Carty
+https://id.biodiversity.org.au/instance/algae/20235079	Peridinium geminum var. elegans Playfair	taxonomic synonym	Parvodinium pusillum (Penard) Carty
+https://id.biodiversity.org.au/instance/algae/20235080	Peridinium pusillum (Penard) Lemmerm.	nomenclatural synonym	Parvodinium pusillum (Penard) Carty
+https://id.biodiversity.org.au/instance/algae/20235081	Peridinium pusillum f. gracile M.Lefèvre	taxonomic synonym	Parvodinium pusillum (Penard) Carty
+https://id.biodiversity.org.au/instance/algae/20234693	Glenodinium geminum (Playfair) Er.Lindem.	taxonomic synonym	Parvodinium umbonatum (F.Stein) Carty
+https://id.biodiversity.org.au/instance/algae/20234686	Peridinium umbonatum F.Stein	nomenclatural synonym	Parvodinium umbonatum (F.Stein) Carty
+https://id.biodiversity.org.au/instance/algae/20234687	Peridinium caudatum var. guildfordense Playfair	taxonomic synonym	Parvodinium umbonatum (F.Stein) Carty
+https://id.biodiversity.org.au/instance/algae/20234688	Peridinium caudatum var. planktonicum Playfair	taxonomic synonym	Parvodinium umbonatum (F.Stein) Carty
+https://id.biodiversity.org.au/instance/algae/20234689	Peridinium geminum Playfair	taxonomic synonym	Parvodinium umbonatum (F.Stein) Carty
+https://id.biodiversity.org.au/instance/algae/20234690	Peridinium minimum A.J.Schill.	taxonomic synonym	Parvodinium umbonatum (F.Stein) Carty
+https://id.biodiversity.org.au/instance/algae/20234692	Peridinium umbonatum var. inaequale Lemmerm.	taxonomic synonym	Parvodinium umbonatum (F.Stein) Carty
+https://id.biodiversity.org.au/instance/algae/20234694	Glenodinium guildfordense (Playfair) Er.Lindem.	taxonomic synonym	Parvodinium umbonatum (F.Stein) Carty
+https://id.biodiversity.org.au/instance/algae/20235718	Podolampas bipes f. reticulata (Kof.) J.Schiller	nomenclatural synonym	Podolampas reticulata Kof.
+https://id.biodiversity.org.au/instance/algae/20235719	Podolampas bipes var. reticulata (Kof.) F.J.R.Taylor	nomenclatural synonym	Podolampas reticulata Kof.
+https://id.biodiversity.org.au/instance/algae/20180872	Peridinium abei Paulsen	nomenclatural synonym	Protoperidinium abei (Paulsen) Balech
+https://id.biodiversity.org.au/instance/algae/20180873	Peridinium achromaticum Levander	nomenclatural synonym	Protoperidinium achromaticum (Levander) Balech
+https://id.biodiversity.org.au/instance/algae/20217417	Peridinium minusculum Pavill.	taxonomic synonym	Protoperidinium bipes (Paulsen) Balech
+https://id.biodiversity.org.au/instance/algae/20217416	Glenodinium bipes Paulsen	nomenclatural synonym	Protoperidinium bipes (Paulsen) Balech
+https://id.biodiversity.org.au/instance/algae/20234507	Peridinium steinii f. breve Paulsen	nomenclatural synonym	Protoperidinium pyriforme subsp. breve (Paulsen) Balech
+https://id.biodiversity.org.au/instance/algae/20234505	Peridinium breve (Paulsen) Paulsen	nomenclatural synonym	Protoperidinium pyriforme subsp. breve (Paulsen) Balech
+https://id.biodiversity.org.au/instance/algae/20234506	Peridinium pyriforme subsp. breve (Paulsen) Balech	nomenclatural synonym	Protoperidinium pyriforme subsp. breve (Paulsen) Balech
+https://id.biodiversity.org.au/instance/algae/20234511	Peridinium brevipes Paulsen	nomenclatural synonym	Protoperidinium brevipes (Paulsen) Balech
+https://id.biodiversity.org.au/instance/algae/20234513	Peridinium varicans Paulsen	taxonomic synonym	Protoperidinium brevipes (Paulsen) Balech
+https://id.biodiversity.org.au/instance/algae/20234512	Peridinium incurvum Er.Lindem.	taxonomic synonym	Protoperidinium brevipes (Paulsen) Balech
+https://id.biodiversity.org.au/instance/algae/20180879	Peridinium brochii Kof. & Swezy	nomenclatural synonym	Protoperidinium brochii (Kof. & Swezy) Balech
+https://id.biodiversity.org.au/instance/algae/20180881	Peridinium claudicans Paulsen	nomenclatural synonym	Protoperidinium claudicans (Paulsen) Balech
+https://id.biodiversity.org.au/instance/algae/20234719	Peridinium concavum L.Mangin	nomenclatural synonym	Protoperidinium concavum (L.Mangin) Balech
+https://id.biodiversity.org.au/instance/algae/20180884	Peridinium conicoides Paulsen	nomenclatural synonym	Protoperidinium conicoides (Paulsen) Balech
+https://id.biodiversity.org.au/instance/algae/20234727	Peridinium conicum (Gran) Ostenf. & E.J.Schmidt	nomenclatural synonym	Protoperidinium conicum (Gran) Balech
+https://id.biodiversity.org.au/instance/algae/20234728	Peridinium divergens var. conica Gran	nomenclatural synonym	Protoperidinium conicum (Gran) Balech
+https://id.biodiversity.org.au/instance/algae/20180887	Peridinium crassipes Kof.	nomenclatural synonym	Protoperidinium crassipes (Kof.) Balech
+https://id.biodiversity.org.au/instance/algae/20180888	Peridinium curtipes Jørg.	nomenclatural synonym	Protoperidinium curtipes (Jørg.) Balech
+https://id.biodiversity.org.au/instance/algae/20180889	Peridinium decipiens Jørg.	nomenclatural synonym	Protoperidinium decipiens (Jørg.) Parke & J.D.Dodge
+https://id.biodiversity.org.au/instance/algae/20180890	Peridinium depressum Bailey	nomenclatural synonym	Protoperidinium depressum (Bailey) Balech
+https://id.biodiversity.org.au/instance/algae/20180891	Peridinium diabolus Cleve	nomenclatural synonym	Protoperidinium diabolus (Cleve) Balech
+https://id.biodiversity.org.au/instance/algae/20180892	Peridinium divaricatum Meunier	nomenclatural synonym	Protoperidinium divaricatum (Meunier) Parke & J.D.Dodge
+https://id.biodiversity.org.au/instance/algae/20218825	Peridinium divergens Ehrenb.	nomenclatural synonym	Protoperidinium divergens (Ehrenb.) Balech
+https://id.biodiversity.org.au/instance/algae/20218826	Ceratium divergens (Ehrenb.) Clap. & J.Lachm.	nomenclatural synonym	Protoperidinium divergens (Ehrenb.) Balech
+https://id.biodiversity.org.au/instance/algae/20180894	Peridinium elegans Cleve	nomenclatural synonym	Protoperidinium elegans (Cleve) Balech
+https://id.biodiversity.org.au/instance/algae/20235058	Peridinium excentricum Paulsen	nomenclatural synonym	Protoperidinium excentricum (Paulsen) Balech
+https://id.biodiversity.org.au/instance/algae/20235059	Peridinium perrieri Fauré-Frem.	taxonomic synonym	Protoperidinium excentricum (Paulsen) Balech
+https://id.biodiversity.org.au/instance/algae/20180897	Peridinium grande Kof.	nomenclatural synonym	Protoperidinium grande (Kof.) Balech
+https://id.biodiversity.org.au/instance/algae/20180898	Peridinium granii Ostenf.	nomenclatural synonym	Protoperidinium granii (Ostenf.) Balech
+https://id.biodiversity.org.au/instance/algae/20180899	Peridinium hirobis T.H.Abé	nomenclatural synonym	Protoperidinium hirobis (T.H.Abé) Balech
+https://id.biodiversity.org.au/instance/algae/20235109	Peridinium inclinatum Balech	nomenclatural synonym	Protoperidinium inclinatum (Balech) Balech
+https://id.biodiversity.org.au/instance/algae/20234655	Peridinium crassum P.J.L.Dang.	taxonomic synonym	Protoperidinium inflatum (Okamura) Balech
+https://id.biodiversity.org.au/instance/algae/20234653	Peridinium inflatum Okamura	nomenclatural synonym	Protoperidinium inflatum (Okamura) Balech
+https://id.biodiversity.org.au/instance/algae/20234654	Peridinium brochii f. inflatum (Okamura) J.Schiller	nomenclatural synonym	Protoperidinium inflatum (Okamura) Balech
+https://id.biodiversity.org.au/instance/algae/20235115	Peridinium latispinum L.Mangin	nomenclatural synonym	Protoperidinium latispinum (L.Mangin) Balech
+https://id.biodiversity.org.au/instance/algae/20235116	Peridinium africanoides P.J.L.Dang.	taxonomic synonym	Protoperidinium latispinum (L.Mangin) Balech
+https://id.biodiversity.org.au/instance/algae/20180903	Peridinium latissimum Kof.	nomenclatural synonym	Protoperidinium latissimum (Kof.) Balech
+https://id.biodiversity.org.au/instance/algae/20235120	Peridinium pentagonum var. latissimum (Kof.) J.Schiller	nomenclatural synonym	Protoperidinium latissimum (Kof.) Balech
+https://id.biodiversity.org.au/instance/algae/20235125	Peridinium leonis Pavill.	nomenclatural synonym	Protoperidinium leonis (Pavill.) Balech
+https://id.biodiversity.org.au/instance/algae/20235126	Peridinium saltans Pavill.	taxonomic synonym	Protoperidinium leonis (Pavill.) Balech
+https://id.biodiversity.org.au/instance/algae/20180905	Peridinium marielebourae Paulsen	nomenclatural synonym	Protoperidinium marielebourae (Paulsen) Balech
+https://id.biodiversity.org.au/instance/algae/20235150	Peridinium mite Pavill.	nomenclatural synonym	Protoperidinium mite (Pavill.) Balech
+https://id.biodiversity.org.au/instance/algae/20180909	Peridinium nudum Meunier	nomenclatural synonym	Protoperidinium nudum (Meunier) Balech
+https://id.biodiversity.org.au/instance/algae/20235050	Peridinium oblongum (Auriv.) Cleve	nomenclatural synonym	Protoperidinium oblongum (Auriv.) Parke & J.D.Dodge
+https://id.biodiversity.org.au/instance/algae/20235049	Peridinium divergens var. oblongum Auriv.	nomenclatural synonym	Protoperidinium oblongum (Auriv.) Parke & J.D.Dodge
+https://id.biodiversity.org.au/instance/algae/20235051	Peridinium oceanicum var. oblongum (Auriv.) Paulsen	nomenclatural synonym	Protoperidinium oblongum (Auriv.) Parke & J.D.Dodge
+https://id.biodiversity.org.au/instance/algae/20235156	Peridinium murrayi Kof.	taxonomic synonym	Protoperidinium oceanicum (Vanhöffen) Balech
+https://id.biodiversity.org.au/instance/algae/20235157	Protoperidinium murrayi (Kof.) Hernández-Becerril	taxonomic synonym	Protoperidinium oceanicum (Vanhöffen) Balech
+https://id.biodiversity.org.au/instance/algae/20180912	Peridinium okamurae T.H.Abé	nomenclatural synonym	Protoperidinium okamurae (T.H.Abé) Balech
+https://id.biodiversity.org.au/instance/algae/20235972	Peridinium ovatum (C.H.G.Pouchet) F.Schütt	nomenclatural synonym	Protoperidinium ovatum C.H.G.Pouchet
+https://id.biodiversity.org.au/instance/algae/20235973	Peridinium globulus var. ovatum (C.H.G.Pouchet) J.Schiller	nomenclatural synonym	Protoperidinium ovatum C.H.G.Pouchet
+https://id.biodiversity.org.au/instance/algae/20235172	Peridinium ovum J.Schiller	nomenclatural synonym	Protoperidinium ovum (J.Schiller) Balech
+https://id.biodiversity.org.au/instance/algae/20235173	Peridinium ellipsoides P.J.L.Dang.	taxonomic synonym	Protoperidinium ovum (J.Schiller) Balech
+https://id.biodiversity.org.au/instance/algae/20180914	Peridinium pallidum Ostenf.	nomenclatural synonym	Protoperidinium pallidum (Ostenf.) Balech
+https://id.biodiversity.org.au/instance/algae/20180915	Peridinium pedunculatum F.Schütt	nomenclatural synonym	Protoperidinium pedunculatum (F.Schütt) Balech
+https://id.biodiversity.org.au/instance/algae/20179690	Peridinium pellucidum (Bergh) F.Schütt	nomenclatural synonym	Protoperidinium pellucidum Bergh
+https://id.biodiversity.org.au/instance/algae/20180916	Peridinium pentagonum Gran	nomenclatural synonym	Protoperidinium pentagonum (Gran) Balech
+https://id.biodiversity.org.au/instance/algae/20235184	Peridinium sinuosum (Lemmerm.) Lemmerm.	taxonomic synonym	Protoperidinium pentagonum (Gran) Balech
+https://id.biodiversity.org.au/instance/algae/20235205	Peridinium punctulatum Paulsen	nomenclatural synonym	Protoperidinium punctulatum (Paulsen) Balech
+https://id.biodiversity.org.au/instance/algae/20235206	Peridinium subinerme var. punctulatum (Paulsen) J.Schiller	nomenclatural synonym	Protoperidinium punctulatum (Paulsen) Balech
+https://id.biodiversity.org.au/instance/algae/20235557	Peridinium steinii f. pyriforme Paulsen	nomenclatural synonym	Protoperidinium pyriforme (Paulsen) Balech
+https://id.biodiversity.org.au/instance/algae/20235211	Peridinium pyriforme (Paulsen) Paulsen	nomenclatural synonym	Protoperidinium pyriforme (Paulsen) Balech
+https://id.biodiversity.org.au/instance/algae/20235087	Peridinium globulus var. quarnerensis Schröd.	nomenclatural synonym	Protoperidinium quarnerense (Schröd.) Balech
+https://id.biodiversity.org.au/instance/algae/20235088	Peridinium globulus F.Stein	taxonomic synonym	Protoperidinium quarnerense (Schröd.) Balech
+https://id.biodiversity.org.au/instance/algae/20180923	Peridinium remotum G.Karst.	nomenclatural synonym	Protoperidinium remotum (G.Karst.) Balech
+https://id.biodiversity.org.au/instance/algae/20180925	Peridinium solidicorne L.Mangin	nomenclatural synonym	Protoperidinium solidicorne (L.Mangin) Balech
+https://id.biodiversity.org.au/instance/algae/20235241	Peridinium steinii Jørg.	nomenclatural synonym	Protoperidinium steinii (Jørg.) Balech
+https://id.biodiversity.org.au/instance/algae/20235242	Peridinium michaelis Ehrenb.	taxonomic synonym	Protoperidinium steinii (Jørg.) Balech
+https://id.biodiversity.org.au/instance/algae/20180928	Peridinium subinerme Paulsen	nomenclatural synonym	Protoperidinium subinerme (Paulsen) A.R.Loebl.
+https://id.biodiversity.org.au/instance/algae/20180929	Peridinium tenuissimum Kof.	nomenclatural synonym	Protoperidinium tenuissimum (Kof.) Balech
+https://id.biodiversity.org.au/instance/algae/20235346	Peridinium thorianum Paulsen	nomenclatural synonym	Protoperidinium thorianum (Paulsen) Balech
+https://id.biodiversity.org.au/instance/algae/20235347	Properidinium thorianum (Paulsen) Meunier	nomenclatural synonym	Protoperidinium thorianum (Paulsen) Balech
+https://id.biodiversity.org.au/instance/algae/20180932	Peridinium ventricum T.H.Abé	nomenclatural synonym	Protoperidinium ventricum (T.H.Abé) Balech
+https://id.biodiversity.org.au/instance/algae/20180933	Peridinium wiesneri J.Schiller	nomenclatural synonym	Protoperidinium wiesneri (J.Schiller) Balech
+https://id.biodiversity.org.au/instance/algae/20215939	Ceratium brevicorne O.Zacharias	taxonomic synonym	Ceratium hirundinella (O.F.Müll.) Dujard.
+https://id.biodiversity.org.au/instance/algae/20215942	Bursaria hirundinella O.F.Müll.	nomenclatural synonym	Ceratium hirundinella (O.F.Müll.) Dujard.
+https://id.biodiversity.org.au/instance/algae/20215943	Ceratium tetraceras Schrank	taxonomic synonym	Ceratium hirundinella (O.F.Müll.) Dujard.
+https://id.biodiversity.org.au/instance/algae/20216334	Ceratium handelii Skuja	taxonomic synonym	Ceratium hirundinella (O.F.Müll.) Dujard.
+https://id.biodiversity.org.au/instance/algae/20216335	Ceratium kumaonense Carter	taxonomic synonym	Ceratium hirundinella (O.F.Müll.) Dujard.
+https://id.biodiversity.org.au/instance/algae/20216336	Ceratium pumilum O.Zacharias	taxonomic synonym	Ceratium hirundinella (O.F.Müll.) Dujard.
+https://id.biodiversity.org.au/instance/algae/20216337	Ceratium leptoceras O.Zacharias	taxonomic synonym	Ceratium hirundinella (O.F.Müll.) Dujard.
+https://id.biodiversity.org.au/instance/algae/20216338	Ceratium longicorne Perty	taxonomic synonym	Ceratium hirundinella (O.F.Müll.) Dujard.
+https://id.biodiversity.org.au/instance/algae/20216339	Ceratium macroceras Schrank	taxonomic synonym	Ceratium hirundinella (O.F.Müll.) Dujard.
+https://id.biodiversity.org.au/instance/algae/20219048	Ceratium hirundinella f. gracile H.Bachm.	taxonomic synonym	Ceratium rhomvoides B.Hickel
+https://id.biodiversity.org.au/instance/algae/20218654	Tripos euarcuatus (Jørg.) F.Gómez	taxonomic synonym	Tripos arcuatus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218655	Neoceratium euarcuatum (Jørg.) F.Gómez, D.Moreira & López-García	taxonomic synonym	Tripos arcuatus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218656	Ceratium euarcuatum Jørg.	taxonomic synonym	Tripos arcuatus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218657	Ceratium tripos var. arcuatum Gourret	nomenclatural synonym	Tripos arcuatus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218658	Ceratium arcuatum (Gourret) Vanhöffen	nomenclatural synonym	Tripos arcuatus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20219498	Tripos muelleri var. arcuatus (Gourret) F.Gómez	nomenclatural synonym	Tripos arcuatus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20238513	Tripos heterocamptus F.Gómez	taxonomic synonym	Tripos arietinus (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220398	Tripos bucephalus F.Gómez	taxonomic synonym	Tripos arietinus (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220399	Ceratium tripos var. bucephalum Cleve	taxonomic synonym	Tripos arietinus (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220400	Ceratium bucephalum (Cleve) Cleve	taxonomic synonym	Tripos arietinus (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220401	Ceratium bucephalum var. heterocamptum (Jørg.) Jørg.	taxonomic synonym	Tripos arietinus (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220402	Ceratium heterocamptum (Jørg.) Ostenf. & E.J.Schmidt	taxonomic synonym	Tripos arietinus (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220403	Ceratium tripos f. heterocamptum Jørg.	taxonomic synonym	Tripos arietinus (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220404	Ceratium arietinum Cleve	nomenclatural synonym	Tripos arietinus (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220405	Neoceratium arietinum (Cleve) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos arietinus (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220406	Tripos arietinus F.Gómez	taxonomic synonym	Tripos arietinus (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20216432	Ceratium arietinum f. regulare Jørg.	nomenclatural synonym	Tripos arietinus f. regularis F.Gómez
+https://id.biodiversity.org.au/instance/algae/20216439	Ceratium arietinum f. valens Jørg.	nomenclatural synonym	Tripos arietinus f. valens F.Gómez
+https://id.biodiversity.org.au/instance/algae/20216445	Ceratium axiale Kof.	nomenclatural synonym	Tripos axialis F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218515	Neoceratium azoricum (Cleve) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos azoricus (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218516	Ceratium azoricum Cleve	nomenclatural synonym	Tripos azoricus (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218517	Tripos petersii (Steem.Niels.) F.Gómez	taxonomic synonym	Tripos azoricus (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20239193	Tripos incisus (G.Karst.) F.Gómez	taxonomic synonym	Tripos belone (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20239197	Tripos belone F.Gómez	taxonomic synonym	Tripos belone (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20239237	Ceratium belone Cleve	nomenclatural synonym	Tripos belone (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20239243	Tripos incisus F.Gómez	taxonomic synonym	Tripos belone (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20239244	Tripos furca var. incisus F.Gómez	taxonomic synonym	Tripos belone (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218697	Ceratium bigelowii Kof.	nomenclatural synonym	Tripos bigelowii (Kof.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20216493	Ceratium breve (Ostenf. & E.J.Schmidt) Schröd.	nomenclatural synonym	Tripos brevis (Ostenf. & E.J.Schmidt) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20216495	Ceratium tripos var. breve Ostenf. & E.J.Schmidt	nomenclatural synonym	Tripos brevis (Ostenf. & E.J.Schmidt) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20224547	Neoceratium candelabrum (Ehrenb.) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos candelabrum (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20239367	Ceratium candelabrum var. depressum (C.H.G.Pouchet) Jørg.	taxonomic synonym	Tripos candelabrum (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20224541	Ceratium globatum Gourret	taxonomic synonym	Tripos candelabrum (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20224542	Ceratium allieri Gourret	taxonomic synonym	Tripos candelabrum (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20224546	Ceratium candelabrum (Ehrenb.) F.Stein	nomenclatural synonym	Tripos candelabrum (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20224537	Tripos globatus F.Gómez	taxonomic synonym	Tripos candelabrum (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20224539	Ceratium depressum Gourret	taxonomic synonym	Tripos candelabrum (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20224540	Ceratium obliquum Gourret	taxonomic synonym	Tripos candelabrum (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20224544	Ceratium dilatatum Gourret	taxonomic synonym	Tripos candelabrum (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20224545	Peridinium candelabrum Ehrenb.	nomenclatural synonym	Tripos candelabrum (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20216764	Ceratium carriense Gourret	nomenclatural synonym	Tripos carriensis (Gourret) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20219055	Ceratium inflexum (Gourret) Schröd.	taxonomic synonym	Tripos carriensis (Gourret) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20219056	Ceratium tripos var. inflexum Gourret	taxonomic synonym	Tripos carriensis (Gourret) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20219474	Tripos inflexus F.Gómez	taxonomic synonym	Tripos carriensis (Gourret) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20216765	Neoceratium carriense (Gourret) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos carriensis (Gourret) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20216793	Ceratium gravidum var. cephalotum Lemmerm.	nomenclatural synonym	Tripos cephalotus (Lemmerm.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20216794	Neoceratium cephalotum (Lemmerm.) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos cephalotus (Lemmerm.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20216791	Ceratium cephalotum (Lemmerm.) Jørg.	nomenclatural synonym	Tripos cephalotus (Lemmerm.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218478	Ceratium buceros f. clavigerum (Kof.) Böhm	nomenclatural synonym	Tripos claviger (Kof.) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20216600	Ceratium claviger Kof.	nomenclatural synonym	Tripos claviger (Kof.) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20216941	Ceratium dens Ostenf. & E.J.Schmidt	nomenclatural synonym	Tripos dens (Ostenf. & E.J.Schmidt) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20216961	Ceratium digitatum F.Schütt	nomenclatural synonym	Tripos digitatus (F.Schütt) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218471	Peridinium eugrammum Ehrenb.	nomenclatural synonym	Tripos eugrammus (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218472	Ceratium eugrammum (Ehrenb.) Kent	nomenclatural synonym	Tripos eugrammus (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218474	Ceratium biceps Clap. & J.Lachm.	taxonomic synonym	Tripos eugrammus (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218473	Ceratium furca var. eugrammum (Ehrenb.) J.Schiller	nomenclatural synonym	Tripos eugrammus (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218475	Neoceratium biceps (Clap. & J.Lachm.) F.Gómez, D.Moreira & López-García	taxonomic synonym	Tripos eugrammus (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218476	Tripos biceps (Clap. & J.Lachm.) F.Gómez	taxonomic synonym	Tripos eugrammus (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20224088	Tripos furca var. eugrammus F.Gómez	nomenclatural synonym	Tripos eugrammus (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218480	Ceratium fusus var. extensum Gourret	nomenclatural synonym	Tripos extensus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218481	Ceratium extensum (Gourret) Cleve	nomenclatural synonym	Tripos extensus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218482	Ceratium strictum (Okamura & Nishikawa) Kof.	taxonomic synonym	Tripos extensus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218483	Ceratium extensum f. strictum (Okamura & Nishikawa) Jørg.	taxonomic synonym	Tripos extensus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218484	Tripos strictus F.Gómez	taxonomic synonym	Tripos extensus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217009	Neoceratium falcatiforme (Jørg.) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos falcatiformis F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217008	Ceratium falcatiforme Jørg.	nomenclatural synonym	Tripos falcatiformis F.Gómez
+https://id.biodiversity.org.au/instance/algae/20219159	Neoceratium falcatum (Jørg.) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos falcatus (Kof.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20219160	Ceratium falcatum (Kof.) Jørg.	nomenclatural synonym	Tripos falcatus (Kof.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20219161	Ceratium pennatum f. falcatum Kof.	nomenclatural synonym	Tripos falcatus (Kof.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20219162	Ceratium pennatum var. falcatum (Kof.) Jørg.	nomenclatural synonym	Tripos falcatus (Kof.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217030	Ceratium furca (Ehrenb.) Clap. & J.Lachm.	nomenclatural synonym	Tripos furca (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217029	Peridinium furca Ehrenb.	nomenclatural synonym	Tripos furca (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217031	Biceratium furca (Ehrenb.) Vanhöffen	nomenclatural synonym	Tripos furca (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217032	Neoceratium furca (Ehrenb.) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos furca (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20224425	Ceratium fusus var. seta (Ehrenb.) E.J.F.Wood	taxonomic synonym	Tripos fusus (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20224418	Ceratium seta (Ehrenb.) Kent	taxonomic synonym	Tripos fusus (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20224420	Peridinium seta Ehrenb.	taxonomic synonym	Tripos fusus (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20224421	Neoceratium fusus (Ehrenb.) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos fusus (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20224422	Peridinium fusus Ehrenb.	nomenclatural synonym	Tripos fusus (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20224423	Ceratium fusus (Ehrenb.) Dujard.	nomenclatural synonym	Tripos fusus (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20224424	Amphiceratium fusus (Ehrenb.) Vanhöffen	nomenclatural synonym	Tripos fusus (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20224426	Ceratium fusus subsp. seta (Ehrenb.) Jørg.	taxonomic synonym	Tripos fusus (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20224427	Ceratium pellucidum Gourret	taxonomic synonym	Tripos fusus (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20224428	Ceratium berghii Gourret	taxonomic synonym	Tripos fusus (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217075	Ceratium fusus var. schuettii Lemmerm.	nomenclatural synonym	Tripos fusus var. schuettii (Lemmerm.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218343	Ceratium deflexum (Kof.) Jørg.	taxonomic synonym	Tripos gallicus (Kof.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218345	Ceratium macroceros subsp. deflexum Kof.	taxonomic synonym	Tripos gallicus (Kof.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218344	Neoceratium deflexum (Kof.) F.Gómez	taxonomic synonym	Tripos gallicus (Kof.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218346	Tripos deflexus (Kof.) Hallegr. & Huisman	taxonomic synonym	Tripos gallicus (Kof.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218787	Ceratium macroceros subsp. gallicum (Kof.) Jørg.	nomenclatural synonym	Tripos gallicus (Kof.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217092	Ceratium gallicum Kof.	nomenclatural synonym	Tripos gallicus (Kof.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217093	Ceratium macroceros var. gallicum (Kof.) N.Peters	nomenclatural synonym	Tripos gallicus (Kof.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218492	Ceratium tricarinatum Kof.	taxonomic synonym	Tripos geniculatus (Lemmerm.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218493	Ceratium pacificum E.J.F.Wood	taxonomic synonym	Tripos geniculatus (Lemmerm.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217066	Ceratium fusus var. geniculatum Lemmerm.	nomenclatural synonym	Tripos geniculatus (Lemmerm.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217067	Ceratium geniculatum (Lemmerm.) Cleve	nomenclatural synonym	Tripos geniculatus (Lemmerm.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218407	Ceratium concilians Jørg.	taxonomic synonym	Tripos gibberus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218409	Ceratium contortum (Gourret) Cleve	taxonomic synonym	Tripos gibberus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218413	Ceratium gibberum Gourret	nomenclatural synonym	Tripos gibberus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20239292	Tripos gibberus F.Gómez	taxonomic synonym	Tripos gibberus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20239293	Tripos contortus (Gourret) F.Gómez	taxonomic synonym	Tripos gibberus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20239298	Tripos concilians (Jørg.) F.Gómez	taxonomic synonym	Tripos gibberus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20239400	Ceratium concilians f. dispar (C.H.G.Pouchet) Böhm	taxonomic synonym	Tripos gibberus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20239401	Tripos contortus F.Gómez	taxonomic synonym	Tripos gibberus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218030	Ceratium oviforme Daday	taxonomic synonym	Tripos gravidus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20239731	Ceratium gravidum var. praelongum Lemmerm.	taxonomic synonym	Tripos gravidus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217140	Poroceratium gravidum (Gourret) A.R.Loebl. & L.A.Loebl.	nomenclatural synonym	Tripos gravidus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217141	Neoceratium gravidum (Gourret) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos gravidus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217142	Ceratium gravidum Gourret	nomenclatural synonym	Tripos gravidus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218617	Ceratium hexacanthum Gourret	nomenclatural synonym	Tripos hexacanthus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218618	Neoceratium hexacanthum (Gourret) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos hexacanthus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217847	Ceratium inflatum (Kof.) Jørg.	nomenclatural synonym	Tripos inflatus F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217848	Neoceratium inflatum (Kof.) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos inflatus F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220243	Tripos intermedius F.Gómez	taxonomic synonym	Tripos intermedius (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220230	Ceratium buceros O.Zacharias	taxonomic synonym	Tripos intermedius (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220231	Ceratium buceros f. molle (Kof.) Böhm	taxonomic synonym	Tripos intermedius (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220232	Tripos buceros F.Gómez	taxonomic synonym	Tripos intermedius (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220233	Ceratium horridum f. denticulatum Jørg.	taxonomic synonym	Tripos intermedius (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220234	Ceratium buceros f. leptosomum (Jørg.) Böhm	taxonomic synonym	Tripos intermedius (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220235	Ceratium tenuissimum Kof.	taxonomic synonym	Tripos intermedius (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220236	Ceratium buceros f. tenuissimum (Kof.) Böhm	taxonomic synonym	Tripos intermedius (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220237	Tripos leptosomus F.Gómez	taxonomic synonym	Tripos intermedius (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220238	Ceratium leptosomum Jørg.	taxonomic synonym	Tripos intermedius (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220242	Ceratium molle Kof.	taxonomic synonym	Tripos intermedius (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220241	Tripos mollis F.Gómez	taxonomic synonym	Tripos intermedius (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217888	Neoceratium limulus (C.H.G.Pouchet) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos limulus (C.H.G.Pouchet) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217886	Ceratium tripos var. limulus C.H.G.Pouchet	nomenclatural synonym	Tripos limulus (C.H.G.Pouchet) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217887	Ceratium limulus (C.H.G.Pouchet) Gourret	nomenclatural synonym	Tripos limulus (C.H.G.Pouchet) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217902	Peridinium lineatum Ehrenb.	nomenclatural synonym	Tripos lineatus (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217903	Ceratium lineatum (Ehrenb.) Cleve	nomenclatural synonym	Tripos lineatus (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217904	Neoceratium lineatum (Ehrenb.) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos lineatus (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217920	Peridinium longipes Bailey	nomenclatural synonym	Tripos longipes (Bailey) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217921	Ceratium longipes (Bailey) Gran	nomenclatural synonym	Tripos longipes (Bailey) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217922	Ceratium tripos var. horridum Cleve	taxonomic synonym	Tripos longipes (Bailey) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217923	Ceratium horridum (Cleve) Gran	taxonomic synonym	Tripos longipes (Bailey) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217942	Ceratium longirostrum Gourret	nomenclatural synonym	Tripos longirostrus (Gourret) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20217943	Neoceratium longirostrum (Gourret) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos longirostrus (Gourret) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20217947	Ceratium lunula A.Schimp. ex G.Karst.	nomenclatural synonym	Tripos lunula (A.Schimp. ex G.Karst.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217948	Neoceratium lunula (A.Schimp. ex G.Karst.) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos lunula (A.Schimp. ex G.Karst.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218133	Tripos contrarius F.Gómez	taxonomic synonym	Tripos macroceros (Ehrenb.) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20238565	Tripos protuberans F.Gómez	taxonomic synonym	Tripos macroceros (Ehrenb.) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20218599	Ceratium trichoceros var. contrarium (Gourret) J.Schiller	taxonomic synonym	Tripos macroceros (Ehrenb.) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20218604	Ceratium tripos var. contrarium Gourret	taxonomic synonym	Tripos macroceros (Ehrenb.) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20219154	Ceratium macroceros (Ehrenb.) Cleve	nomenclatural synonym	Tripos macroceros (Ehrenb.) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20219205	Ceratium protuberans (G.Karst.) Paulsen	taxonomic synonym	Tripos macroceros (Ehrenb.) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20219799	Ceratium tripos var. macroceros (Ehrenb.) Clap. & J.Lachm.	nomenclatural synonym	Tripos macroceros (Ehrenb.) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20219800	Peridinium macroceros Ehrenb.	nomenclatural synonym	Tripos macroceros (Ehrenb.) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20219801	Neoceratium macroceros (Ehrenb.) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos macroceros (Ehrenb.) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20219802	Tripos muelleri var. macroceros F.Gómez	nomenclatural synonym	Tripos macroceros (Ehrenb.) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20219873	Ceratium tripos var. protuberans G.Karst.	taxonomic synonym	Tripos macroceros (Ehrenb.) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20217711	Ceratium contrarium (Gourret) Pavill.	taxonomic synonym	Tripos macroceros (Ehrenb.) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20238266	Ceratium carriense var. massiliense (Gourret) Huisman	nomenclatural synonym	Tripos massiliensis (Gourret) F.Gómez ex Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20238267	Ceratium massiliense (Gourret) G.Karst.	nomenclatural synonym	Tripos massiliensis (Gourret) F.Gómez ex Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20238268	Ceratium tripos var. massiliense Gourret	nomenclatural synonym	Tripos massiliensis (Gourret) F.Gómez ex Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20217970	Ceratium minutum Jørg.	nomenclatural synonym	Tripos minutus (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218021	Ceratium porrectum G.Karst.	taxonomic synonym	Tripos muelleri Bory
+https://id.biodiversity.org.au/instance/algae/20218022	Ceratium tripos (O.F.Müll.) Nitzsch	nomenclatural synonym	Tripos muelleri Bory
+https://id.biodiversity.org.au/instance/algae/20218024	Ceratium divaricatum (Lemmerm.) Kof.	taxonomic synonym	Tripos muelleri Bory
+https://id.biodiversity.org.au/instance/algae/20218025	Ceratium humile Jørg.	taxonomic synonym	Tripos muelleri Bory
+https://id.biodiversity.org.au/instance/algae/20218026	Tripos humilis (Jørg.) F.Gómez	taxonomic synonym	Tripos muelleri Bory
+https://id.biodiversity.org.au/instance/algae/20218041	Ceratium schmidtii Jørg.	taxonomic synonym	Tripos muelleri Bory
+https://id.biodiversity.org.au/instance/algae/20218042	Ceratium dalmaticum Schröd.	taxonomic synonym	Tripos muelleri Bory
+https://id.biodiversity.org.au/instance/algae/20218043	Ceratium pulchellum f. tripodioides Jørg.	taxonomic synonym	Tripos muelleri Bory
+https://id.biodiversity.org.au/instance/algae/20218044	Ceratium pulchellum f. dalmaticum (Schröd.) J.Schiller	taxonomic synonym	Tripos muelleri Bory
+https://id.biodiversity.org.au/instance/algae/20218045	Ceratium breve var. schmidtii (Jørg.) Sournia	taxonomic synonym	Tripos muelleri Bory
+https://id.biodiversity.org.au/instance/algae/20218046	Neoceratium porrectum (G.Karst.) F.Gómez, D.Moreira & López-García	taxonomic synonym	Tripos muelleri Bory
+https://id.biodiversity.org.au/instance/algae/20218047	Neoceratium tripos (O.F.Müll.) F.Gómez, D.Moreira & López-García	taxonomic synonym	Tripos muelleri Bory
+https://id.biodiversity.org.au/instance/algae/20239642	Tripos pulchellus (Schröd.) F.Gómez	taxonomic synonym	Tripos muelleri Bory
+https://id.biodiversity.org.au/instance/algae/20219958	Tripos tripodioides F.Gómez	taxonomic synonym	Tripos muelleri Bory
+https://id.biodiversity.org.au/instance/algae/20220190	Tripos brevis var. schmidtii F.Gómez	taxonomic synonym	Tripos muelleri Bory
+https://id.biodiversity.org.au/instance/algae/20220192	Tripos schmidtii F.Gómez	taxonomic synonym	Tripos muelleri Bory
+https://id.biodiversity.org.au/instance/algae/20218721	Ceratium tripos f. parallelum E.J.Schmidt	nomenclatural synonym	Tripos muelleri f. parallelus (E.J.Schmidt) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218722	Ceratium breve var. parallelum (E.J.Schmidt) Jørg.	nomenclatural synonym	Tripos muelleri f. parallelus (E.J.Schmidt) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217977	Ceratium paradoxides Cleve	nomenclatural synonym	Tripos paradoxides (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217978	Neoceratium paradoxides (Cleve) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos paradoxides (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217985	Ceratium pavillardii Jørg.	nomenclatural synonym	Tripos pavillardii (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217986	Neoceratium pavillardii (Jørg.) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos pavillardii (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220307	Ceratium pentagonum Gourret	nomenclatural synonym	Tripos pentagonus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220308	Ceratium furca var. pentagonum (Gourret) Lemmerm.	nomenclatural synonym	Tripos pentagonus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220309	Neoceratium pentagonum (Gourret) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos pentagonus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220311	Ceratium subrobustum (Jørg.) Steem.Niels.	taxonomic synonym	Tripos pentagonus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220312	Tripos pentagonus F.Gómez	taxonomic synonym	Tripos pentagonus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220310	Ceratium pentagonum var. subrobustum Jørg.	taxonomic synonym	Tripos pentagonus (Gourret) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20216887	Ceratium platycorne Daday	nomenclatural synonym	Tripos platycornis (Daday) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20216901	Neoceratium platycorne (Daday) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos platycornis (Daday) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20219014	Ceratium gravidum var. praelongum Lemmerm.	nomenclatural synonym	Tripos praelongus (Lemmerm.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20219015	Ceratium praelongum (Lemmerm.) Kof. ex Jørg.	nomenclatural synonym	Tripos praelongus (Lemmerm.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20224582	Tripos praelongus F.Gómez	taxonomic synonym	Tripos praelongus (Lemmerm.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218036	Ceratium pulchellum Schröd.	nomenclatural synonym	Tripos pulchellus (Schröd.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218037	Ceratium pulchellum f. semipulchellum Jørg.	taxonomic synonym	Tripos pulchellus (Schröd.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218038	Ceratium semipulchellum (Jørg.) Steem.Niels.	taxonomic synonym	Tripos pulchellus (Schröd.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218056	Ceratium ranipes Cleve	nomenclatural synonym	Tripos ranipes (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218057	Neoceratium ranipes (Cleve) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos ranipes (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218072	Ceratium reflexum Cleve	nomenclatural synonym	Tripos reflexus (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20219061	Ceratium japonicum Schröd.	taxonomic synonym	Tripos robustus (Ostenf. & E.J.Schmidt) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20219355	Ceratium tasmaniae E.J.F.Wood	taxonomic synonym	Tripos rotundatus (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20219356	Tripos tasmaniae (E.J.F.Wood) F.Gómez	taxonomic synonym	Tripos rotundatus (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20219357	Neoceratium tasmaniae (E.J.F.Wood) F.Gómez, D.Moreira & López-García	taxonomic synonym	Tripos rotundatus (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20239306	Tripos kofoidii (Jørg.) F.Gómez	taxonomic synonym	Tripos setaceus (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217870	Ceratium kofoidii Jørg.	taxonomic synonym	Tripos setaceus (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217872	Ceratium setaceum Jørg.	nomenclatural synonym	Tripos setaceus (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217873	Neoceratium setaceum (Jørg.) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos setaceus (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217874	Ceratium boehmii H.W.Graham & Bronik.	taxonomic synonym	Tripos setaceus (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217875	Neoceratium kofoidii (Jørg.) F.Gómez, D.Moreira & López-García	taxonomic synonym	Tripos setaceus (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20217876	Tripos boehmii (H.W.Graham & Bronik.) F.Gómez	taxonomic synonym	Tripos setaceus (Jørg.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20238572	Tripos saltans F.Gómez	taxonomic synonym	Tripos subcontortus (Schröd.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220526	Ceratium contortum f. subcontortum (Schröd.) Steem.Niels.	nomenclatural synonym	Tripos subcontortus (Schröd.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220527	Ceratium subcontortum Schröd.	nomenclatural synonym	Tripos subcontortus (Schröd.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220528	Ceratium contortum var. subcontortum (Schröd.) Taylor	nomenclatural synonym	Tripos subcontortus (Schröd.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220529	Ceratium saltans Schröd.	taxonomic synonym	Tripos subcontortus (Schröd.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220530	Ceratium contortum var. saltans (Schröd.) Jørg.	taxonomic synonym	Tripos subcontortus (Schröd.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220532	Tripos subcontortus F.Gómez	taxonomic synonym	Tripos subcontortus (Schröd.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218079	Ceratium symmetricum Pavill.	nomenclatural synonym	Tripos symmetricus (Pavill.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218080	Neoceratium symmetricum (Pavill.) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos symmetricus (Pavill.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218082	Ceratium gracile (Gourret) Jørg.	taxonomic synonym	Tripos symmetricus (Pavill.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218794	Ceratium tripos var. gracile Gourret	nomenclatural synonym	Tripos symmetricus (Pavill.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220300	Ceratium buceros f. inclinatum (Kof.) Böhm	taxonomic synonym	Tripos tenuis (Ostenf. & E.J.Schmidt) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20216640	Ceratium tenue Ostenf. & E.J.Schmidt	nomenclatural synonym	Tripos tenuis (Ostenf. & E.J.Schmidt) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20216643	Ceratium buceros f. tenue (Ostenf. & E.J.Schmidt) Böhm	nomenclatural synonym	Tripos tenuis (Ostenf. & E.J.Schmidt) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20216644	Neoceratium tenue (Ostenf. & E.J.Schmidt) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos tenuis (Ostenf. & E.J.Schmidt) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20217838	Tripos inclinatus F.Gómez	taxonomic synonym	Tripos tenuis (Ostenf. & E.J.Schmidt) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20217841	Ceratium inclinatum Kof.	taxonomic synonym	Tripos tenuis (Ostenf. & E.J.Schmidt) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20218089	Ceratium teres Kof.	nomenclatural synonym	Tripos teres (Kof.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218090	Neoceratium teres (Kof.) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos teres (Kof.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20239275	Peridinium trichoceros Ehrenb.	nomenclatural synonym	Tripos trichoceros (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20239276	Ceratium trichoceros (Ehrenb.) Kent	nomenclatural synonym	Tripos trichoceros (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20239277	Tripos trichoceros (Ehrenb.) F.Gómez	taxonomic synonym	Tripos trichoceros (Ehrenb.) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220507	Ceratium carriense f. ceylanicum (Schröd.) Jørg.	taxonomic synonym	Tripos volans (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220505	Ceratium ceylanicum Schröd.	taxonomic synonym	Tripos volans (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220503	Tripos hundhausenii (Schröd.) Hallegr. & Huisman	taxonomic synonym	Tripos volans (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220504	Ceratium elegans Schröd.	taxonomic synonym	Tripos volans (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220508	Ceratium hundhausenii Schröd.	taxonomic synonym	Tripos volans (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220510	Ceratium volans Cleve	nomenclatural synonym	Tripos volans (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220511	Tripos volans F.Gómez	taxonomic synonym	Tripos volans (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220509	Ceratium carriense var. volans (Cleve) Jørg.	nomenclatural synonym	Tripos volans (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20221050	Tripos elegans F.Gómez	taxonomic synonym	Tripos volans (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20220506	Ceratium carriense f. hundhausenii (Schröd.) E.J.F.Wood	taxonomic synonym	Tripos volans (Cleve) F.Gómez
+https://id.biodiversity.org.au/instance/algae/20218138	Ceratium vultur Cleve	nomenclatural synonym	Tripos vultur (Cleve) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20218139	Ceratium vultur f. sumatranum (G.Karst.) Sournia	taxonomic synonym	Tripos vultur (Cleve) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20218140	Neoceratium vultur (Cleve) F.Gómez, D.Moreira & López-García	nomenclatural synonym	Tripos vultur (Cleve) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20218150	Ceratium vultur var. sumatranum G.Karst.	taxonomic synonym	Tripos vultur (Cleve) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20219342	Tripos sumatranus F.Gómez	taxonomic synonym	Tripos vultur (Cleve) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20219343	Ceratium sumatranum (G.Karst.) Jørg.	taxonomic synonym	Tripos vultur (Cleve) Hallegr. & Huisman
+https://id.biodiversity.org.au/instance/algae/20216650	Alexandrium fukuyoi Balech	taxonomic synonym	Alexandrium affine (Inoue & Fukuyo) Balech
+https://id.biodiversity.org.au/instance/algae/20216646	Protogonyaulax affinis Inoue & Fukuyo	nomenclatural synonym	Alexandrium affine (Inoue & Fukuyo) Balech
+https://id.biodiversity.org.au/instance/algae/20216647	Episemicolon affine (Inoue & Fukuyo) F.Gómez & Artigas	nomenclatural synonym	Alexandrium affine (Inoue & Fukuyo) Balech
+https://id.biodiversity.org.au/instance/algae/20216653	Protogonyaulax catenella (Whedon & Kof.) F.J.R.Taylor	nomenclatural synonym	Alexandrium catenella (Whedon & Kof.) Balech
+https://id.biodiversity.org.au/instance/algae/20216654	Gessnerium catenella (Whedon & Kof.) A.R.Loebl. & L.A.Loebl.	nomenclatural synonym	Alexandrium catenella (Whedon & Kof.) Balech
+https://id.biodiversity.org.au/instance/algae/20216652	Gonyaulax catenella Whedon & Kof.	nomenclatural synonym	Alexandrium catenella (Whedon & Kof.) Balech
+https://id.biodiversity.org.au/instance/algae/20179112	Alexandrium ibericum Balech	taxonomic synonym	Alexandrium minutum Halim
+https://id.biodiversity.org.au/instance/algae/20179113	Alexandrium lusitanicum Balech	taxonomic synonym	Alexandrium minutum Halim
+https://id.biodiversity.org.au/instance/algae/20179117	Gonyaulax trygvei Parke ex Parke & J.D.Dodge	taxonomic synonym	Alexandrium ostenfeldii (Paulsen) Balech & Tangen
+https://id.biodiversity.org.au/instance/algae/20180658	Goniodoma ostenfeldii Paulsen	nomenclatural synonym	Alexandrium ostenfeldii (Paulsen) Balech & Tangen
+https://id.biodiversity.org.au/instance/algae/20179116	Gonyaulax tamarensis var. globosa Braarud	taxonomic synonym	Alexandrium ostenfeldii (Paulsen) Balech & Tangen
+https://id.biodiversity.org.au/instance/algae/20230154	Gonyaulax globosa (Braarud) Balech	taxonomic synonym	Alexandrium ostenfeldii (Paulsen) Balech & Tangen
+https://id.biodiversity.org.au/instance/algae/20216663	Protogonyaulax tamarensis (M.Lebour) F.J.R.Taylor	nomenclatural synonym	Alexandrium tamarense (M.Lebour) Balech
+https://id.biodiversity.org.au/instance/algae/20216661	Gonyaulax tamarensis M.Lebour	nomenclatural synonym	Alexandrium tamarense (M.Lebour) Balech
+https://id.biodiversity.org.au/instance/algae/20216665	Alexandrium excavatum (Braarud) Balech & Tangen	taxonomic synonym	Alexandrium tamarense (M.Lebour) Balech
+https://id.biodiversity.org.au/instance/algae/20216664	Gessnerium tamarensis (M.Lebour) A.R.Loebl. & L.A.Loebl.	nomenclatural synonym	Alexandrium tamarense (M.Lebour) Balech
+https://id.biodiversity.org.au/instance/algae/20216659	Gonyaulax excavata (Braarud) Balech	taxonomic synonym	Alexandrium tamarense (M.Lebour) Balech
+https://id.biodiversity.org.au/instance/algae/20216916	Alexandrium tamarense f. excavatum (Braarud) Konovalova	taxonomic synonym	Alexandrium tamarense (M.Lebour) Balech
+https://id.biodiversity.org.au/instance/algae/20216660	Gonyaulax tamarensis var. excavata Braarud	taxonomic synonym	Alexandrium tamarense (M.Lebour) Balech
+https://id.biodiversity.org.au/instance/algae/20230190	Goniodoma polyedricum (C.H.G.Pouchet) Jørg.	nomenclatural synonym	Triadinium polyedricum (C.H.G.Pouchet) J.D.Dodge
+https://id.biodiversity.org.au/instance/algae/20230189	Peridinium polyedricum C.H.G.Pouchet	nomenclatural synonym	Triadinium polyedricum (C.H.G.Pouchet) J.D.Dodge
+https://id.biodiversity.org.au/instance/algae/20230552	Goniodoma sphaericum G.Murray & Whitting	nomenclatural synonym	Triadinium sphaericum (G.Murray & Whitting) J.D.Dodge
+https://id.biodiversity.org.au/instance/algae/20179123	Gonyaulax glyptorhynchus G.Murray & Whitting	taxonomic synonym	Gonyaulax birostris F.Stein
+https://id.biodiversity.org.au/instance/algae/20230557	Gonyaulax polonica Wolosz.	taxonomic synonym	Gonyaulax clevei Ostenf.
+https://id.biodiversity.org.au/instance/algae/20230558	Gonyaulax limnetica Er.Lindem.	taxonomic synonym	Gonyaulax clevei Ostenf.
+https://id.biodiversity.org.au/instance/algae/20230554	Gonyaulax apiculata Entz	taxonomic synonym	Gonyaulax clevei Ostenf.
+https://id.biodiversity.org.au/instance/algae/20230555	Gonyaulax apiculata var. clevei (Ostenf.) Ostenf.	nomenclatural synonym	Gonyaulax clevei Ostenf.
+https://id.biodiversity.org.au/instance/algae/20230556	Peridinium apiculatum Penard	taxonomic synonym	Gonyaulax clevei Ostenf.
+https://id.biodiversity.org.au/instance/algae/20235965	Protoperidinium digitale C.H.G.Pouchet	nomenclatural synonym	Gonyaulax digitale (C.H.G.Pouchet) Kof.
+https://id.biodiversity.org.au/instance/algae/20180664	Steiniella fragilis F.Schütt	nomenclatural synonym	Gonyaulax fragilis (F.Schütt) Kof.
+https://id.biodiversity.org.au/instance/algae/20230796	Gonyaulax levanderi (Lemmerm.) Paulsen	taxonomic synonym	Gonyaulax spinifera (Clap. & J.Lachm.) Diesing
+https://id.biodiversity.org.au/instance/algae/20230794	Peridinium spiniferum Clap. & J.Lachm.	nomenclatural synonym	Gonyaulax spinifera (Clap. & J.Lachm.) Diesing
+https://id.biodiversity.org.au/instance/algae/20230797	Gonyaulax spinifera var. levanderi (Lemmerm.) Er.Lindem.	taxonomic synonym	Gonyaulax spinifera (Clap. & J.Lachm.) Diesing
+https://id.biodiversity.org.au/instance/algae/20230799	Peridinium levanderi Lemmerm.	taxonomic synonym	Gonyaulax spinifera (Clap. & J.Lachm.) Diesing
+https://id.biodiversity.org.au/instance/algae/20180669	Gonyaulax polyedra F.Stein	nomenclatural synonym	Lingulodinium polyedrum (F.Stein) J.D.Dodge
+https://id.biodiversity.org.au/instance/algae/20239885	Gonyaulax jolliffei G.Murray & Whitting	nomenclatural synonym	Spiraulax jolliffei (G.Murray & Whitting) Kof.
+https://id.biodiversity.org.au/instance/algae/20180671	Peridinium blackmanii G.Murray & Whitting	nomenclatural synonym	Heterodinium blackmanii (G.Murray & Whitting) Kof.
+https://id.biodiversity.org.au/instance/algae/20180672	Peridinium doma G.Murray & Whitting	nomenclatural synonym	Heterodinium doma (G.Murray & Whitting) Kof.
+https://id.biodiversity.org.au/instance/algae/20216710	Gonyaulax verior Sournia	taxonomic synonym	Sourniaea diacantha (Meunier) H.Gu, K.N.Mertens, Zhun Li & H.H.Shin
+https://id.biodiversity.org.au/instance/algae/20216708	Amylax diacantha Meunier	nomenclatural synonym	Sourniaea diacantha (Meunier) H.Gu, K.N.Mertens, Zhun Li & H.H.Shin
+https://id.biodiversity.org.au/instance/algae/20216709	Gonyaulax diacantha (Meunier) J.Schiller	nomenclatural synonym	Sourniaea diacantha (Meunier) H.Gu, K.N.Mertens, Zhun Li & H.H.Shin
+https://id.biodiversity.org.au/instance/algae/20180651	Goniodoma acuminatum var. armatum F.Schütt	nomenclatural synonym	Ceratocorys armata (F.Schütt) Kof.
+https://id.biodiversity.org.au/instance/algae/20215945	Dinophysis jourdanii Gourret	taxonomic synonym	Ceratocorys horrida F.Stein
+https://id.biodiversity.org.au/instance/algae/20235889	Peridinium reticulatum Clap. & J.Lachm.	nomenclatural synonym	Protoceratium reticulatum (Clap. & J.Lachm.) Buetschli
+https://id.biodiversity.org.au/instance/algae/20235890	Clathrocysta reticulata (Clap. & J.Lachm.) F.Stein	nomenclatural synonym	Protoceratium reticulatum (Clap. & J.Lachm.) Buetschli
+https://id.biodiversity.org.au/instance/algae/20235891	Protoceratium aceros Bergh	taxonomic synonym	Protoceratium reticulatum (Clap. & J.Lachm.) Buetschli
+https://id.biodiversity.org.au/instance/algae/20235888	Gonyaulax grindleyi P.Reinecke	taxonomic synonym	Protoceratium reticulatum (Clap. & J.Lachm.) Buetschli
+https://id.biodiversity.org.au/instance/algae/20179249	Oxytoxum gigas Kof.	taxonomic synonym	Schuettiella mitra (F.Schütt) Balech
+https://id.biodiversity.org.au/instance/algae/20180854	Steiniella mitra F.Schütt	nomenclatural synonym	Schuettiella mitra (F.Schütt) Balech
+https://id.biodiversity.org.au/instance/algae/20217388	Helgolandinium subglobosum Stosch	nomenclatural synonym	Fragilidium subglobosum (Stosch) A.R.Loebl.
+https://id.biodiversity.org.au/instance/algae/20180676	Pyrophacus horologium var. steinii J.Schiller	nomenclatural synonym	Pyrophacus steinii (J.Schiller) D.Wall & B.Dale
+https://id.biodiversity.org.au/instance/algae/20179149	Pyrophacus vancampoae (M.Rossignol) D.Wall & B.Dale	taxonomic synonym	Pyrophacus steinii (J.Schiller) D.Wall & B.Dale
+https://id.biodiversity.org.au/instance/algae/20231255	Gymnodinium unicorne (G.A.Klebs) Er.Lindem.	nomenclatural synonym	Cystodinium unicorne G.A.Klebs
+https://id.biodiversity.org.au/instance/algae/20231254	Gymnodinium rotundatum G.A.Klebs	taxonomic synonym	Cystodinium unicorne G.A.Klebs
+https://id.biodiversity.org.au/instance/algae/20217317	Porotheca perforata (Gran) P.C.Silva	nomenclatural synonym	Mesoporos perforatus (Gran) Lillick
+https://id.biodiversity.org.au/instance/algae/20217316	Porella perforata (Gran) J.Schiller	nomenclatural synonym	Mesoporos perforatus (Gran) Lillick
+https://id.biodiversity.org.au/instance/algae/20217319	Porella globulus J.Schiller	taxonomic synonym	Mesoporos perforatus (Gran) Lillick
+https://id.biodiversity.org.au/instance/algae/20217629	Porella adriatica J.Schiller	taxonomic synonym	Mesoporos perforatus (Gran) Lillick
+https://id.biodiversity.org.au/instance/algae/20217315	Exuviaella perforata Gran	nomenclatural synonym	Mesoporos perforatus (Gran) Lillick
+https://id.biodiversity.org.au/instance/algae/20232408	Porella bisimpressa (J.Schiller) J.Schiller	taxonomic synonym	Mesoporos perforatus (Gran) Lillick
+https://id.biodiversity.org.au/instance/algae/20217321	Porella asymmetrica J.Schiller	taxonomic synonym	Mesoporos perforatus (Gran) Lillick
+https://id.biodiversity.org.au/instance/algae/20217318	Mesoporos globulus (J.Schiller) Lillick	taxonomic synonym	Mesoporos perforatus (Gran) Lillick
+https://id.biodiversity.org.au/instance/algae/20235857	Exuviaella cordata Ostenf.	nomenclatural synonym	Prorocentrum cordatum (Ostenf.) J.D.Dodge
+https://id.biodiversity.org.au/instance/algae/20235860	Prorocentrum minimum (Pavill.) J.Schiller	taxonomic synonym	Prorocentrum cordatum (Ostenf.) J.D.Dodge
+https://id.biodiversity.org.au/instance/algae/20235886	Prorocentrum triangulatum G.W.Martin	taxonomic synonym	Prorocentrum cordatum (Ostenf.) J.D.Dodge
+https://id.biodiversity.org.au/instance/algae/20235858	Exuviaella minima Pavill.	taxonomic synonym	Prorocentrum cordatum (Ostenf.) J.D.Dodge
+https://id.biodiversity.org.au/instance/algae/20179351	Prorocentrum diamantinae E.J.F.Wood	taxonomic synonym	Prorocentrum gracile F.Schütt
+https://id.biodiversity.org.au/instance/algae/20216093	Cryptomonas lima Ehrenb.	nomenclatural synonym	Prorocentrum lima (Ehrenb.) F.Stein
+https://id.biodiversity.org.au/instance/algae/20216094	Dinopyxis laevis F.Stein	taxonomic synonym	Prorocentrum lima (Ehrenb.) F.Stein
+https://id.biodiversity.org.au/instance/algae/20216095	Exuviaella marina Cienk.	taxonomic synonym	Prorocentrum lima (Ehrenb.) F.Stein
+https://id.biodiversity.org.au/instance/algae/20217628	Exuviaella laevis (F.Stein) Schröd.	taxonomic synonym	Prorocentrum lima (Ehrenb.) F.Stein
+https://id.biodiversity.org.au/instance/algae/20216096	Exuviaella lima (Ehrenb.) Bütschli	nomenclatural synonym	Prorocentrum lima (Ehrenb.) F.Stein
+https://id.biodiversity.org.au/instance/algae/20179354	Prorocentrum schillei Böhm	taxonomic synonym	Prorocentrum micans Ehrenb.
+https://id.biodiversity.org.au/instance/algae/20179355	Prorocentrum pacificum E.J.F.Wood	taxonomic synonym	Prorocentrum micans Ehrenb.
+https://id.biodiversity.org.au/instance/algae/20217308	Exuviaella lima var. major Playfair	taxonomic synonym	Prorocentrum playfairi Croome & P.A.Tyler
+https://id.biodiversity.org.au/instance/algae/20235880	Prorocentrum styliferum Lohmann	taxonomic synonym	Prorocentrum rostratum F.Stein
+https://id.biodiversity.org.au/instance/algae/20235881	Prorocentrum tenue Lohmann	taxonomic synonym	Prorocentrum rostratum F.Stein
+https://id.biodiversity.org.au/instance/algae/20235999	Murracystis fusiformis (C.W.Thomson) Haeckel	nomenclatural synonym	Pyrocystis fusiformis C.W.Thomson
+https://id.biodiversity.org.au/instance/algae/20234842	Dissodinium lunula (F.Schütt) G.A.Klebs	nomenclatural synonym	Pyrocystis lunula (F.Schütt) F.Schütt
+https://id.biodiversity.org.au/instance/algae/20234844	Gymnodinium lunula F.Schütt	nomenclatural synonym	Pyrocystis lunula (F.Schütt) F.Schütt
+https://id.biodiversity.org.au/instance/algae/20234845	Diplodinium lunula (F.Schütt) G.A.Klebs	nomenclatural synonym	Pyrocystis lunula (F.Schütt) F.Schütt
+https://id.biodiversity.org.au/instance/algae/20236011	Pyrocystis noctiluca J.Murray ex Haeckel	taxonomic synonym	Pyrocystis pseudonoctiluca C.W.Thomson
+https://id.biodiversity.org.au/instance/algae/20231311	Gymnodinium simplex (Lohmann) Kof. & Swezy	nomenclatural synonym	Protodinium simplex Lohmann
+https://id.biodiversity.org.au/instance/algae/20234498	Peridinium borgei (Lemmerm.) Lemmerm.	nomenclatural synonym	Peridiniopsis borgei Lemmerm.
+https://id.biodiversity.org.au/instance/algae/20234622	Peridinium aciculiferum Lemmerm.	nomenclatural synonym	Apocalathium aciculiferum (Lemmerm.) Craveiro, Daugbjerg, Moestrup & Calado
+https://id.biodiversity.org.au/instance/algae/20217825	Goniodoma acuminatum (Ehrenb.) F.Stein	nomenclatural synonym	Scrippsiella acuminata (Ehrenb.) Kretschmann, Elbr., C.Zinssm., S.Soehner, Kirsch, Kusber & Gottschling
+https://id.biodiversity.org.au/instance/algae/20217819	Peridinium acuminatum Ehrenb.	nomenclatural synonym	Scrippsiella acuminata (Ehrenb.) Kretschmann, Elbr., C.Zinssm., S.Soehner, Kirsch, Kusber & Gottschling
+https://id.biodiversity.org.au/instance/algae/20217824	Heteraulacus acuminatus (Ehrenb.) Diesing	nomenclatural synonym	Scrippsiella acuminata (Ehrenb.) Kretschmann, Elbr., C.Zinssm., S.Soehner, Kirsch, Kusber & Gottschling
+https://id.biodiversity.org.au/instance/algae/20217826	Glenodinium acuminatum Jørg.	nomenclatural synonym	Scrippsiella acuminata (Ehrenb.) Kretschmann, Elbr., C.Zinssm., S.Soehner, Kirsch, Kusber & Gottschling
+https://id.biodiversity.org.au/instance/algae/20217827	Glenodinium trochoideum F.Stein	taxonomic synonym	Scrippsiella acuminata (Ehrenb.) Kretschmann, Elbr., C.Zinssm., S.Soehner, Kirsch, Kusber & Gottschling
+https://id.biodiversity.org.au/instance/algae/20217828	Peridinium trochoideum (F.Stein) Lemmerm.	taxonomic synonym	Scrippsiella acuminata (Ehrenb.) Kretschmann, Elbr., C.Zinssm., S.Soehner, Kirsch, Kusber & Gottschling
+https://id.biodiversity.org.au/instance/algae/20217829	Scrippsiella faeroense (Paulsen) Balech & L.O.Soares	taxonomic synonym	Scrippsiella acuminata (Ehrenb.) Kretschmann, Elbr., C.Zinssm., S.Soehner, Kirsch, Kusber & Gottschling
+https://id.biodiversity.org.au/instance/algae/20217830	Scrippsiella trochoidea (F.Stein) A.R.Loebl.	taxonomic synonym	Scrippsiella acuminata (Ehrenb.) Kretschmann, Elbr., C.Zinssm., S.Soehner, Kirsch, Kusber & Gottschling
+https://id.biodiversity.org.au/instance/algae/20180839	Gymnodinium pseudonoctiluca C.H.G.Pouchet	nomenclatural synonym	Spatulodinium pseudonoctiluca (C.H.G.Pouchet) Cachon & Cachon-Enj.
+https://id.biodiversity.org.au/instance/algae/20232387	Noctiluca omogenea E.H.Giglioli	taxonomic synonym	Noctiluca scintillans (Macartney) Kof. & Swezy
+https://id.biodiversity.org.au/instance/algae/20232389	Noctiluca punctata K.D.W.Busch	taxonomic synonym	Noctiluca scintillans (Macartney) Kof. & Swezy
+https://id.biodiversity.org.au/instance/algae/20232384	Medusa marina Slabber	taxonomic synonym	Noctiluca scintillans (Macartney) Kof. & Swezy
+https://id.biodiversity.org.au/instance/algae/20232383	Mammaria scintillans Ehrenb.	nomenclatural synonym	Noctiluca scintillans (Macartney) Kof. & Swezy
+https://id.biodiversity.org.au/instance/algae/20232385	Noctiluca marina (Slabber) Ehrenb.	taxonomic synonym	Noctiluca scintillans (Macartney) Kof. & Swezy
+https://id.biodiversity.org.au/instance/algae/20232388	Noctiluca pacifica E.H.Giglioli	taxonomic synonym	Noctiluca scintillans (Macartney) Kof. & Swezy
+https://id.biodiversity.org.au/instance/algae/20232386	Noctiluca miliaris Suriray	taxonomic synonym	Noctiluca scintillans (Macartney) Kof. & Swezy
+https://id.biodiversity.org.au/instance/algae/20232382	Medusa scintillans Macartney	nomenclatural synonym	Noctiluca scintillans (Macartney) Kof. & Swezy
+https://id.biodiversity.org.au/instance/algae/20235833	Rhynchomonas acuta Lohmann	nomenclatural synonym	Pronoctiluca acuta (Lohmann) J.Schiller
+https://id.biodiversity.org.au/instance/algae/20180005	Protodinifer marinum (Lohmann) Kof. & Swezy	taxonomic synonym	Pronoctiluca pelagica Fabre-Dom.
+https://id.biodiversity.org.au/instance/algae/20180004	Rhynchomonas marina Lohmann	taxonomic synonym	Pronoctiluca pelagica Fabre-Dom.
+https://id.biodiversity.org.au/instance/algae/20235851	Protodinifer tentaculum Kof. & Swezy	taxonomic synonym	Pronoctiluca spinifera (Lohmann) J.Schiller
+https://id.biodiversity.org.au/instance/algae/20235850	Rhynchomonas spinifer Lohmann	nomenclatural synonym	Pronoctiluca spinifera (Lohmann) J.Schiller
+https://id.biodiversity.org.au/instance/algae/20233951	Oxyrrhis tentaculifera W.Conrad	taxonomic synonym	Oxyrrhis marina Dujard.
+https://id.biodiversity.org.au/instance/algae/20233950	Oxyrrhis maritima van Meel	taxonomic synonym	Oxyrrhis marina Dujard.
+https://id.biodiversity.org.au/instance/algae/20233949	Glyphidium marinum Fresen.	taxonomic synonym	Oxyrrhis marina Dujard.
+https://id.biodiversity.org.au/instance/algae/20232031	Euglena oxyuris Schmarda	nomenclatural synonym	Lepocinclis oxyuris (Schmarda) B.Marin & Melkonian
+https://id.biodiversity.org.au/instance/algae/20232032	Euglena oxyuris f. charkowiensis (Svirenko) Bourr.	taxonomic synonym	Lepocinclis oxyuris (Schmarda) B.Marin & Melkonian
+https://id.biodiversity.org.au/instance/algae/20049335	Ectocarpus siliculosus f. arctus (Kütz.) Kuck.	nomenclatural synonym	Ectocarpus siliculosus var. arctus (Kütz.) Gallardo
+https://id.biodiversity.org.au/instance/algae/20046275	Ectocarpus arctus Kütz.	nomenclatural synonym	Ectocarpus siliculosus var. arctus (Kütz.) Gallardo
+https://id.biodiversity.org.au/instance/algae/20217500	Ectocarpus confervoides Le Jol.	taxonomic synonym	Ectocarpus siliculosus (Dillwyn) Lyngb.
+https://id.biodiversity.org.au/instance/algae/20216568	Ectocarpus confervoides f. siliculosus (Dillwyn) Kjellm.	nomenclatural synonym	Ectocarpus siliculosus (Dillwyn) Lyngb.
+https://id.biodiversity.org.au/instance/algae/20216567	Conferva siliculosa Dillwyn	nomenclatural synonym	Ectocarpus siliculosus (Dillwyn) Lyngb.
+https://id.biodiversity.org.au/instance/algae/20229123	Conferva caerulea Balb. ex C.Agardh	nomenclatural synonym	Compsopogon caeruleus (Balb. ex C.Agardh) Mont.
+https://id.biodiversity.org.au/instance/algae/20215844	Chromastrum liagorae (Børgesen) Papenf.	nomenclatural synonym	Acrochaetium liagorae Børgesen
+https://id.biodiversity.org.au/instance/algae/20215838	Chantransia liagorae Børgesen	nomenclatural synonym	Acrochaetium liagorae Børgesen
+https://id.biodiversity.org.au/instance/algae/20215837	Acrochaetium collinsianum Børgesen	nomenclatural synonym	Acrochaetium liagorae Børgesen
+https://id.biodiversity.org.au/instance/algae/20215839	Audouinella liagorae (Børgesen) Woelk.	nomenclatural synonym	Acrochaetium liagorae Børgesen
+https://id.biodiversity.org.au/instance/algae/20216328	Audouinella thuretii (Bornet) Woelk.	taxonomic synonym	Grania efflorescens (J.Agardh) Kylin
+https://id.biodiversity.org.au/instance/algae/20215846	Audouinella purpurea (Lightf.) Woelk.	nomenclatural synonym	Rhodochorton purpureum (Lightf.) Rosenv.
+https://id.biodiversity.org.au/instance/algae/20218598	Ceramium floridulum (Dillwyn) C.Agardh	nomenclatural synonym	Rhodothamniella floridula Feldmann
+https://id.biodiversity.org.au/instance/algae/20218591	Conferva floridula Dillwyn	nomenclatural synonym	Rhodothamniella floridula Feldmann
+https://id.biodiversity.org.au/instance/algae/20218594	Thamnidium floridulum (Dillwyn) Thur.	nomenclatural synonym	Rhodothamniella floridula Feldmann
+https://id.biodiversity.org.au/instance/algae/20218592	Trentepohlia floridula (Dillwyn) Harv.	nomenclatural synonym	Rhodothamniella floridula Feldmann
+https://id.biodiversity.org.au/instance/algae/20218596	Rhodochorton floridulum (Dillwyn) Nägeli	nomenclatural synonym	Rhodothamniella floridula Feldmann
+https://id.biodiversity.org.au/instance/algae/20215835	Audouinella floridula (Dillwyn) Woelk.	nomenclatural synonym	Rhodothamniella floridula Feldmann
+https://id.biodiversity.org.au/instance/algae/20218597	Callithamnion floridulum (Dillwyn) Lyngb.	nomenclatural synonym	Rhodothamniella floridula Feldmann
+https://id.biodiversity.org.au/instance/algae/20218595	Chromastrum floridulum (Dillwyn) Papenf.	nomenclatural synonym	Rhodothamniella floridula Feldmann
+https://id.biodiversity.org.au/instance/algae/20218593	Kylinia floridula (Dillwyn) Papenf.	nomenclatural synonym	Rhodothamniella floridula Feldmann
+https://id.biodiversity.org.au/instance/algae/20216356	Delesseria leprieurii Mont.	nomenclatural synonym	Caloglossa leprieurii (Mont.) G.Martens
+https://id.biodiversity.org.au/instance/algae/20216361	Caloglossa bombayensis Børgesen	taxonomic synonym	Caloglossa ogasawaraensis Okamura
+https://id.biodiversity.org.au/instance/algae/20216313	Bostrychia australasica Sond.	taxonomic synonym	Bostrychia harveyi Mont.
+https://id.biodiversity.org.au/instance/algae/20216312	Bostrychia distans Harv.	taxonomic synonym	Bostrychia harveyi Mont.
+https://id.biodiversity.org.au/instance/algae/20230057	Wrangelia nitella Harv.	nomenclatural synonym	Drewiana nitella (Harv.) Gordon-Mills
+https://id.biodiversity.org.au/instance/algae/20239936	Neomonospora pedicellata var. tenuis Feldm.-Maz.	nomenclatural synonym	Monosporus pedicellatus var. tenuis (Feldm.-Maz.) Huisman & G.T.Kraft
+https://id.biodiversity.org.au/instance/algae/20217561	Gelidium proliferum Harv.	nomenclatural synonym	Ptilophora prolifera (Harv.) J.Agardh
+https://id.biodiversity.org.au/instance/algae/20237402	Gelidium rectangulare A.H.S.Lucas	nomenclatural synonym	Orthogonacladia rectangularis (A.H.S.Lucas) G.H.Boo & Wernberg
+https://id.biodiversity.org.au/instance/algae/20237401	Pterocladia rectangularis (A.H.S.Lucas) Womersley & Guiry	nomenclatural synonym	Orthogonacladia rectangularis (A.H.S.Lucas) G.H.Boo & Wernberg
+https://id.biodiversity.org.au/instance/algae/20235800	Byssus purpurea Lam.	nomenclatural synonym	Porphyridium purpureum (Bory) K.M.Drew & Ron.Ross
+https://id.biodiversity.org.au/instance/algae/20235802	Phytoconis purpurea Bory	nomenclatural synonym	Porphyridium purpureum (Bory) K.M.Drew & Ron.Ross
+https://id.biodiversity.org.au/instance/algae/20235801	Olivia cruenta (Sm.) Gray	taxonomic synonym	Porphyridium purpureum (Bory) K.M.Drew & Ron.Ross
+https://id.biodiversity.org.au/instance/algae/20235804	Porphyridium marinum Kylin	taxonomic synonym	Porphyridium purpureum (Bory) K.M.Drew & Ron.Ross
+https://id.biodiversity.org.au/instance/algae/20215951	Conferva ornata C.Agardh	nomenclatural synonym	Chroodactylon ornatum (C.Agardh) Basson
+https://id.biodiversity.org.au/instance/algae/20215955	Goniotrichum ramosum (Thwaites) Hauck	taxonomic synonym	Chroodactylon ornatum (C.Agardh) Basson
+https://id.biodiversity.org.au/instance/algae/20215953	Asterocytis ramosa (Thwaites) Gobi ex F.Schmitz	taxonomic synonym	Chroodactylon ornatum (C.Agardh) Basson
+https://id.biodiversity.org.au/instance/algae/20215952	Asterocytis ornata (C.Agardh) Hamel	nomenclatural synonym	Chroodactylon ornatum (C.Agardh) Basson
+https://id.biodiversity.org.au/instance/algae/20215954	Hormospora ramosa Thwaites	taxonomic synonym	Chroodactylon ornatum (C.Agardh) Basson
+https://id.biodiversity.org.au/instance/algae/20215956	Callonema smaragdinum Reinsch	taxonomic synonym	Chroodactylon ornatum (C.Agardh) Basson
+https://id.biodiversity.org.au/instance/algae/20236699	Vaucheria thuretii Woronin	taxonomic synonym	Vaucheria velutina C.Agardh
