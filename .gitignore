@@ -1,2 +1,3 @@
-coldp/tracheophytes/
+coldp/**/*
 data/*
+!data/.gitkeep
